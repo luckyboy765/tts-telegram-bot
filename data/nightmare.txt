@@ -1,0 +1,259 @@
+# Bank soal TTS — tier nightmare (257 soal)
+# Format: JAWABAN|petunjuk
+PALEONTOLOGI|Ilmu tentang fosil purba
+STRATOSFER|Lapisan atmosfer tempat lapisan ozon
+TERMODINAMIKA|Ilmu tentang panas dan energi
+SEMIKONDUKTOR|Bahan antara isolator dan konduktor
+FOTOLISTRIK|Efek keluarnya elektron karena cahaya
+RELATIVITAS|Teori ruang-waktu Einstein
+ENTROPI|Ukuran ketidakteraturan sistem
+ISOTOP|Atom sama nomor beda massa
+KATALISATOR|Zat yang mempercepat reaksi tanpa ikut bereaksi
+POLIMER|Molekul rantai panjang berulang
+MITOKONDRIA|Organel penghasil energi sel
+RIBOSOM|Organel tempat sintesis protein
+SITOPLASMA|Cairan pengisi dalam sel
+FAGOSITOSIS|Sel menelan partikel padat
+HEMOGLOBIN|Protein pengikat oksigen dalam darah
+FOTORESEPTOR|Sel mata penangkap cahaya
+BIOLUMINESENSI|Cahaya yang dihasilkan makhluk hidup
+EKSOPLANET|Planet di luar tata surya
+HELIOSENTRIS|Paham matahari sebagai pusat
+PARALAKS|Pergeseran posisi benda karena sudut pandang
+KUANTUM|Satuan terkecil energi
+SUBLIMASI|Perubahan padat langsung ke gas
+DEPOSISI|Perubahan gas langsung ke padat
+VISKOSITAS|Kekentalan zat cair
+KAPILARITAS|Naiknya zat cair di pipa sempit
+ELEKTROLISIS|Penguraian zat dengan arus listrik
+STOIKIOMETRI|Perhitungan kuantitatif reaksi kimia
+EPISTEMOLOGI|Cabang filsafat tentang pengetahuan
+METAFISIKA|Cabang filsafat tentang hakikat ada
+HERMENEUTIKA|Ilmu tentang penafsiran teks
+DIALEKTIKA|Metode berpikir tesis-antitesis-sintesis
+ONTOLOGI|Cabang filsafat tentang keberadaan
+SILOGISME|Penarikan kesimpulan logika deduktif
+PARADOKS|Pernyataan tampak bertentangan
+OKSIMORON|Gabungan dua kata berlawanan makna
+SINESTESIA|Bercampurnya persepsi antarindra
+HEGEMONI|Dominasi kekuasaan satu kelompok
+BIROKRASI|Sistem administrasi berjenjang
+OLIGARKI|Kekuasaan di tangan segelintir orang
+PLUTOKRASI|Pemerintahan oleh orang kaya
+MERITOKRASI|Sistem berbasis prestasi/kemampuan
+DEFLASI|Penurunan harga barang secara umum
+OKSIDATOR|Zat penyebab oksidasi
+BIOTEKNOLOGI|Pemanfaatan makhluk hidup untuk teknologi
+NANOTEKNOLOGI|Teknologi skala molekul/atom
+KRIPTOGRAFI|Ilmu penyandian pesan rahasia
+ASTROFISIKA|Fisika benda-benda langit
+KOSMOLOGI|Ilmu tentang asal usul alam semesta
+GEOFISIKA|Fisika tentang bumi
+SEISMOGRAF|Alat pencatat getaran gempa
+SPEKTROSKOPI|Analisis zat lewat spektrum cahaya
+KROMATOGRAFI|Pemisahan campuran zat
+FOTOSFER|Lapisan cahaya permukaan matahari
+MAGNETOSFER|Zona medan magnet sekitar planet
+IONOSFER|Lapisan atmosfer berion pemantul radio
+TROPOSFER|Lapisan atmosfer tempat cuaca terjadi
+SUBDUKSI|Penunjaman lempeng bumi
+TEKTONIK|Berkaitan pergerakan lempeng bumi
+MAGMA|Batuan cair di dalam bumi
+STALAKTIT|Kerucut kapur menggantung di gua
+STALAGMIT|Kerucut kapur tumbuh dari lantai gua
+FOTOTROPISME|Gerak tumbuhan ke arah cahaya
+GEOTROPISME|Gerak tumbuhan mengikuti gravitasi
+OSMOSIS|Perpindahan zat lewat membran
+DIFUSI|Penyebaran zat dari pekat ke encer
+HOMEOSTASIS|Keseimbangan lingkungan dalam tubuh
+METABOLISME|Seluruh reaksi kimia dalam tubuh
+KATABOLISME|Penguraian zat menghasilkan energi
+ANABOLISME|Penyusunan zat memerlukan energi
+FILANTROPI|Kedermawanan menolong sesama
+ANTROPOSENTRIS|Paham manusia sebagai pusat
+EGALITARIAN|Paham kesetaraan semua orang
+UTILITARIAN|Paham manfaat sebesar-besarnya
+DETERMINISME|Paham segala sesuatu telah ditentukan
+EMPIRISME|Pengetahuan bersumber pengalaman
+RASIONALISME|Pengetahuan bersumber akal
+SKEPTISISME|Sikap ragu terhadap kebenaran
+PRAGMATISME|Paham berorientasi hasil praktis
+FENOMENOLOGI|Studi tentang pengalaman kesadaran
+KOGNISI|Proses berpikir dan mengetahui
+INTUISI|Pemahaman langsung tanpa penalaran
+PIEZOELEKTRIK|Listrik dari tekanan mekanis
+SUPERKONDUKTOR|Penghantar tanpa hambatan pada suhu rendah
+INTERFEROMETER|Alat ukur presisi berbasis interferensi
+OSILOSKOP|Alat penampil bentuk gelombang listrik
+KALORIMETER|Alat pengukur kalor reaksi
+MANOMETER|Alat pengukur tekanan gas
+HIGROMETER|Alat pengukur kelembapan udara
+ANEMOMETER|Alat pengukur kecepatan angin
+GALVANOMETER|Alat pendeteksi arus listrik kecil
+ELEKTROFORESIS|Pemisahan molekul dengan medan listrik
+SENTRIFUGASI|Pemisahan zat dengan putaran cepat
+DESTILASI|Pemurnian cairan lewat penguapan
+KRISTALISASI|Pembentukan kristal dari larutan
+POLIMERISASI|Penggabungan monomer jadi polimer
+HIDROLISIS|Penguraian zat oleh air
+FOTODISOSIASI|Penguraian molekul oleh cahaya
+TERMOKIMIA|Kajian kalor dalam reaksi kimia
+STEREOKIMIA|Kajian susunan ruang molekul
+BIOKATALIS|Enzim yang mempercepat reaksi hayati
+PATOGEN|Organisme penyebab penyakit
+EPIDEMIOLOGI|Ilmu penyebaran penyakit di populasi
+IMUNOLOGI|Ilmu tentang sistem kekebalan
+FARMAKOLOGI|Ilmu tentang khasiat obat
+TOKSIKOLOGI|Ilmu tentang racun
+NEUROLOGI|Ilmu tentang saraf
+KARDIOLOGI|Ilmu tentang jantung
+ONKOLOGI|Ilmu tentang kanker
+RADIOLOGI|Ilmu pencitraan medis dengan radiasi
+GENOMIKA|Kajian keseluruhan gen organisme
+PROTEOMIKA|Kajian keseluruhan protein
+FILOGENETIK|Kajian hubungan evolusi makhluk
+BIODIVERSITAS|Keanekaragaman hayati
+EKOLOGI|Ilmu hubungan organisme dan lingkungan
+ETOLOGI|Ilmu tentang perilaku hewan
+PARTENOGENESIS|Perkembangbiakan tanpa pembuahan
+VIVIPAR|Berkembang biak dengan melahirkan
+OVIPAR|Berkembang biak dengan bertelur
+OVOVIVIPAR|Bertelur sekaligus melahirkan
+HERMAFRODIT|Berkelamin ganda
+VESTIGIAL|Organ sisa yang menyusut fungsinya
+MIMIKRI|Peniruan bentuk untuk perlindungan
+KAMUFLASE|Penyamaran dengan lingkungan
+HIBERNASI|Tidur panjang saat musim dingin
+ESTIVASI|Tidur panjang saat musim kemarau
+EKOLOKASI|Navigasi dengan pantulan suara
+FEROMON|Zat kimia pemikat antarhewan
+KARNIVORA|Pemakan daging
+HERBIVORA|Pemakan tumbuhan
+OMNIVORA|Pemakan segala
+DEKOMPOSER|Pengurai bangkai dan sisa
+AUTOTROF|Organisme penyusun makanan sendiri
+HETEROTROF|Organisme bergantung makanan lain
+PLANKTON|Organisme mikro pengapung di air
+FITOPLANKTON|Plankton tumbuhan berfotosintesis
+ZOOPLANKTON|Plankton hewan mikroskopis
+BENTOS|Organisme dasar perairan
+NEKTON|Hewan perenang aktif di air
+GAMETOFIT|Fase penghasil gamet pada tumbuhan
+SPOROFIT|Fase penghasil spora pada tumbuhan
+RIZOMA|Batang menjalar di dalam tanah
+STOLON|Batang menjalar di atas tanah
+TUBER|Umbi batang penyimpan makanan
+KAMBIUM|Jaringan pertumbuhan batang
+EPIDERMIS|Jaringan pelindung terluar
+PARENKIM|Jaringan dasar pengisi tumbuhan
+KOLENKIM|Jaringan penguat tumbuhan muda
+SKLERENKIM|Jaringan penguat tumbuhan dewasa
+TRANSPIRASI|Penguapan air lewat daun
+GUTASI|Pengeluaran air berupa tetesan pada daun
+IMBIBISI|Penyerapan air oleh biji
+VERNALISASI|Perlakuan dingin untuk memicu pembungaan
+ETIOLASI|Pertumbuhan cepat pucat tanpa cahaya
+MAGNETOMETER|Alat pengukur kuat medan magnet
+DENSITOMETER|Alat pengukur kerapatan optik
+REFRAKTOMETER|Alat pengukur indeks bias
+POLARIMETER|Alat pengukur putaran bidang polarisasi
+KOLORIMETER|Alat pengukur intensitas warna larutan
+VISKOMETER|Alat pengukur kekentalan cairan
+TAKOMETER|Alat pengukur kecepatan putar
+ALTIMETER|Alat pengukur ketinggian
+ODOMETER|Alat pengukur jarak tempuh kendaraan
+KRONOMETER|Jam presisi tinggi untuk navigasi
+SEISMOMETER|Sensor pendeteksi getaran bumi
+BOLOMETER|Alat pengukur energi radiasi
+KALORIMETRI|Pengukuran kalor reaksi
+TERMOKOPEL|Sensor suhu dua logam berbeda
+SUPERFLUIDITAS|Sifat cairan mengalir tanpa gesekan
+KRIOGENIK|Teknologi bersuhu sangat rendah
+PLASMONIK|Kajian gelombang elektron permukaan logam
+FOTONIKA|Ilmu pemanfaatan partikel cahaya
+SPINTRONIK|Elektronika berbasis putaran elektron
+KUANTISASI|Pembatasan besaran menjadi paket diskret
+SUPERPOSISI|Keadaan gabungan dua kondisi kuantum
+DEKOHERENSI|Hilangnya sifat kuantum sistem
+SINGULARITAS|Titik kerapatan tak hingga lubang hitam
+REDSHIFT|Pergeseran cahaya ke merah galaksi menjauh
+KOSMOGONI|Teori asal usul alam semesta
+HELIOPAUSE|Batas pengaruh angin matahari
+MAGNITUDO|Ukuran kecerlangan bintang
+LUMINOSITAS|Daya pancar total sebuah bintang
+PARSEK|Satuan jarak astronomi
+PERIHELION|Titik terdekat orbit ke matahari
+APHELION|Titik terjauh orbit dari matahari
+EKLIPTIKA|Bidang orbit bumi mengelilingi matahari
+PRESESI|Gerak gasing sumbu rotasi bumi
+DEJAVU|Perasaan pernah mengalami sesuatu yang baru terjadi
+PAREIDOLIA|Melihat wajah pada benda mati seperti awan
+PROPRIOSEPSI|Indra sadar posisi tubuh tanpa melihat
+PLASTISITAS|Kemampuan otak membentuk ulang koneksinya
+EPIGENETIKA|Perubahan gen aktif tanpa mengubah DNA
+TELOMER|Tudung ujung kromosom yang memendek saat menua
+APOPTOSIS|Bunuh diri sel yang terprogram
+BIORITME|Jam biologis alami dalam tubuh
+KIRALITAS|Sifat molekul yang bayangan cerminnya tak berimpit
+ANTIMATERI|Kembaran materi yang saling memusnahkan
+NEUTRINO|Partikel hantu yang menembus tubuhmu tiap detik
+TAKION|Partikel hipotetis lebih cepat dari cahaya
+FRAKTAL|Pola yang berulang serupa di tiap skala
+ENTANGLEMENT|Keterkaitan kuantum dua partikel dari jarak jauh
+SPELEOLOGI|Ilmu yang mempelajari gua
+VULKANOLOGI|Ilmu yang mempelajari gunung berapi
+OSEANOGRAFI|Ilmu yang mempelajari lautan
+METEOROLOGI|Ilmu yang mempelajari cuaca
+GRAFOLOGI|Membaca kepribadian dari tulisan tangan
+HERPETOLOGI|Ilmu tentang reptil dan amfibi
+SITOLOGI|Ilmu yang mempelajari sel
+HISTOLOGI|Ilmu yang mempelajari jaringan tubuh
+MORFOLOGI|Kajian bentuk dan struktur kata
+FONOLOGI|Kajian sistem bunyi bahasa
+SINTAKSIS|Kajian susunan kalimat
+SEMANTIK|Kajian makna kata dan kalimat
+PRAGMATIK|Kajian bahasa sesuai konteks
+ETIMOLOGI|Kajian asal usul kata
+LEKSIKOGRAFI|Ilmu penyusunan kamus
+PALEOGRAFI|Kajian tulisan-tulisan kuno
+EPIGRAFI|Kajian prasasti dan inskripsi
+NUMEROLOGI|Kepercayaan makna mistis angka
+TEOLOGI|Ilmu tentang ketuhanan
+MITOLOGI|Kajian tentang mitos dan legenda
+ANTOLOGI|Kumpulan karya sastra pilihan
+KRONOLOGI|Urutan waktu suatu peristiwa
+TIPOGRAFI|Seni penataan huruf cetak
+HIDROGRAFI|Pemetaan perairan dan dasar laut
+TOPOGRAFI|Pemetaan bentuk permukaan tanah
+STRATIGRAFI|Kajian lapisan batuan bumi
+PETROGRAFI|Deskripsi dan klasifikasi batuan
+BIBLIOGRAFI|Daftar rujukan buku dan sumber
+HAGIOGRAFI|Penulisan riwayat orang suci
+DEMONOLOGI|Kajian tentang makhluk jahat
+ANGELOLOGI|Kajian tentang malaikat
+ESKATOLOGI|Ajaran tentang akhir zaman
+TAKSONOMI|Ilmu penggolongan dan penamaan makhluk hidup
+BIOGEOGRAFI|Kajian penyebaran makhluk hidup di bumi
+ETNOBOTANI|Kajian pemanfaatan tumbuhan oleh masyarakat
+PALINOLOGI|Ilmu tentang serbuk sari dan spora
+MALAKOLOGI|Ilmu yang mempelajari moluska
+ARAKNOLOGI|Ilmu yang mempelajari laba-laba
+MIRMEKOLOGI|Ilmu yang mempelajari semut
+KARSINOLOGI|Ilmu yang mempelajari udang dan kepiting
+PRIMATOLOGI|Ilmu yang mempelajari primata
+SPELUNKING|Kegiatan menjelajah gua sebagai olahraga
+GLASIOLOGI|Ilmu yang mempelajari gletser dan es
+LIMNOLOGI|Ilmu yang mempelajari danau dan air tawar
+SPELEOTEM|Endapan mineral khas dalam gua
+VEXILOLOGI|Kajian tentang bendera
+HOROLOGI|Ilmu tentang pengukuran waktu dan jam
+KAMPANOLOGI|Ilmu tentang lonceng dan cara membunyikannya
+ENOLOGI|Ilmu tentang pembuatan anggur minuman
+SOMMELIER|Ahli penyaji dan pemadu minuman anggur
+TIPOLOGI|Kajian penggolongan berdasarkan tipe
+SEMIOTIKA|Ilmu tentang tanda dan makna
+FONETIK|Kajian bunyi ujaran secara fisik
+DIALEKTOLOGI|Kajian tentang dialek bahasa
+LEKSIKOLOGI|Kajian tentang kosakata dan maknanya
+ORTOGRAFI|Sistem ejaan suatu bahasa
+KODIKOLOGI|Kajian naskah kuno sebagai benda fisik

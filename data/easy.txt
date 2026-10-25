@@ -1,0 +1,1347 @@
+# Bank soal TTS — tier easy (1345 soal)
+# Format: JAWABAN|petunjuk
+CAT|Bahasa Inggris dari 'kucing'
+DOG|Bahasa Inggris dari 'anjing'
+BIRD|Bahasa Inggris dari 'burung'
+FISH|Bahasa Inggris dari 'ikan'
+HORSE|Bahasa Inggris dari 'kuda'
+COW|Bahasa Inggris dari 'sapi'
+GOAT|Bahasa Inggris dari 'kambing'
+SHEEP|Bahasa Inggris dari 'domba'
+PIG|Bahasa Inggris dari 'babi'
+CHICKEN|Bahasa Inggris dari 'ayam'
+DUCK|Bahasa Inggris dari 'bebek'
+RABBIT|Bahasa Inggris dari 'kelinci'
+MOUSE|Bahasa Inggris dari 'tikus'
+LION|Bahasa Inggris dari 'singa'
+TIGER|Bahasa Inggris dari 'harimau'
+BEAR|Bahasa Inggris dari 'beruang'
+ELEPHANT|Bahasa Inggris dari 'gajah'
+MONKEY|Bahasa Inggris dari 'monyet'
+FOX|Bahasa Inggris dari 'rubah'
+WOLF|Bahasa Inggris dari 'serigala'
+SNAKE|Bahasa Inggris dari 'ular'
+FROG|Bahasa Inggris dari 'katak'
+BEE|Bahasa Inggris dari 'lebah'
+ANT|Bahasa Inggris dari 'semut'
+SPIDER|Bahasa Inggris dari 'laba-laba'
+MOSQUITO|Bahasa Inggris dari 'nyamuk'
+FLY|Bahasa Inggris dari 'lalat'
+BUTTERFLY|Bahasa Inggris dari 'kupu-kupu'
+BOOK|Bahasa Inggris dari 'buku'
+PEN|Bahasa Inggris dari 'pena'
+PENCIL|Bahasa Inggris dari 'pensil'
+PAPER|Bahasa Inggris dari 'kertas'
+TABLE|Bahasa Inggris dari 'meja'
+CHAIR|Bahasa Inggris dari 'kursi'
+DOOR|Bahasa Inggris dari 'pintu'
+WINDOW|Bahasa Inggris dari 'jendela'
+KEY|Bahasa Inggris dari 'kunci'
+CLOCK|Bahasa Inggris dari 'jam'
+LAMP|Bahasa Inggris dari 'lampu'
+BED|Bahasa Inggris dari 'tempat tidur'
+HOUSE|Bahasa Inggris dari 'rumah'
+SCHOOL|Bahasa Inggris dari 'sekolah'
+CITY|Bahasa Inggris dari 'kota'
+VILLAGE|Bahasa Inggris dari 'desa'
+ROAD|Bahasa Inggris dari 'jalan'
+BRIDGE|Bahasa Inggris dari 'jembatan'
+CHURCH|Bahasa Inggris dari 'gereja'
+GARDEN|Bahasa Inggris dari 'kebun'
+TREE|Bahasa Inggris dari 'pohon'
+FLOWER|Bahasa Inggris dari 'bunga'
+LEAF|Bahasa Inggris dari 'daun'
+GRASS|Bahasa Inggris dari 'rumput'
+ROOT|Bahasa Inggris dari 'akar'
+SEED|Bahasa Inggris dari 'biji'
+FOREST|Bahasa Inggris dari 'hutan'
+MOUNTAIN|Bahasa Inggris dari 'gunung'
+RIVER|Bahasa Inggris dari 'sungai'
+LAKE|Bahasa Inggris dari 'danau'
+SEA|Bahasa Inggris dari 'laut'
+BEACH|Bahasa Inggris dari 'pantai'
+ISLAND|Bahasa Inggris dari 'pulau'
+SKY|Bahasa Inggris dari 'langit'
+SUN|Bahasa Inggris dari 'matahari'
+MOON|Bahasa Inggris dari 'bulan'
+STAR|Bahasa Inggris dari 'bintang'
+CLOUD|Bahasa Inggris dari 'awan'
+RAIN|Bahasa Inggris dari 'hujan'
+SNOW|Bahasa Inggris dari 'salju'
+WIND|Bahasa Inggris dari 'angin'
+FIRE|Bahasa Inggris dari 'api'
+WATER|Bahasa Inggris dari 'air'
+SOIL|Bahasa Inggris dari 'tanah'
+STONE|Bahasa Inggris dari 'batu'
+SAND|Bahasa Inggris dari 'pasir'
+ICE|Bahasa Inggris dari 'es'
+SMOKE|Bahasa Inggris dari 'asap'
+HEAD|Bahasa Inggris dari 'kepala'
+HAIR|Bahasa Inggris dari 'rambut'
+EYE|Bahasa Inggris dari 'mata'
+NOSE|Bahasa Inggris dari 'hidung'
+MOUTH|Bahasa Inggris dari 'mulut'
+TOOTH|Bahasa Inggris dari 'gigi'
+TONGUE|Bahasa Inggris dari 'lidah'
+EAR|Bahasa Inggris dari 'telinga'
+NECK|Bahasa Inggris dari 'leher'
+SHOULDER|Bahasa Inggris dari 'bahu'
+ARM|Bahasa Inggris dari 'lengan'
+FINGER|Bahasa Inggris dari 'jari'
+FOOT|Bahasa Inggris dari 'kaki'
+KNEE|Bahasa Inggris dari 'lutut'
+HEART|Bahasa Inggris dari 'jantung'
+BLOOD|Bahasa Inggris dari 'darah'
+BONE|Bahasa Inggris dari 'tulang'
+SKIN|Bahasa Inggris dari 'kulit'
+BREAD|Bahasa Inggris dari 'roti'
+RICE|Bahasa Inggris dari 'nasi'
+EGG|Bahasa Inggris dari 'telur'
+MILK|Bahasa Inggris dari 'susu'
+CHEESE|Bahasa Inggris dari 'keju'
+MEAT|Bahasa Inggris dari 'daging'
+SALT|Bahasa Inggris dari 'garam'
+SUGAR|Bahasa Inggris dari 'gula'
+HONEY|Bahasa Inggris dari 'madu'
+OIL|Bahasa Inggris dari 'minyak'
+TEA|Bahasa Inggris dari 'teh'
+COFFEE|Bahasa Inggris dari 'kopi'
+APPLE|Bahasa Inggris dari 'apel'
+BANANA|Bahasa Inggris dari 'pisang'
+ORANGE|Bahasa Inggris dari 'jeruk'
+GRAPE|Bahasa Inggris dari 'anggur'
+MANGO|Bahasa Inggris dari 'mangga'
+PINEAPPLE|Bahasa Inggris dari 'nanas'
+WATERMELON|Bahasa Inggris dari 'semangka'
+STRAWBERRY|Bahasa Inggris dari 'stroberi'
+TOMATO|Bahasa Inggris dari 'tomat'
+POTATO|Bahasa Inggris dari 'kentang'
+CARROT|Bahasa Inggris dari 'wortel'
+ONION|Bahasa Inggris dari 'bawang'
+CORN|Bahasa Inggris dari 'jagung'
+SHIRT|Bahasa Inggris dari 'baju'
+PANTS|Bahasa Inggris dari 'celana'
+SHOE|Bahasa Inggris dari 'sepatu'
+HAT|Bahasa Inggris dari 'topi'
+JACKET|Bahasa Inggris dari 'jaket'
+BAG|Bahasa Inggris dari 'tas'
+WALLET|Bahasa Inggris dari 'dompet'
+RING|Bahasa Inggris dari 'cincin'
+CAR|Bahasa Inggris dari 'mobil'
+BIKE|Bahasa Inggris dari 'sepeda'
+TRAIN|Bahasa Inggris dari 'kereta'
+SHIP|Bahasa Inggris dari 'kapal'
+BOAT|Bahasa Inggris dari 'perahu'
+PLANE|Bahasa Inggris dari 'pesawat'
+TRUCK|Bahasa Inggris dari 'truk'
+TEACHER|Bahasa Inggris dari 'guru'
+STUDENT|Bahasa Inggris dari 'murid'
+DOCTOR|Bahasa Inggris dari 'dokter'
+NURSE|Bahasa Inggris dari 'perawat'
+FARMER|Bahasa Inggris dari 'petani'
+COOK|Bahasa Inggris dari 'koki'
+KING|Bahasa Inggris dari 'raja'
+QUEEN|Bahasa Inggris dari 'ratu'
+FRIEND|Bahasa Inggris dari 'teman'
+ENEMY|Bahasa Inggris dari 'musuh'
+BABY|Bahasa Inggris dari 'bayi'
+CHILD|Bahasa Inggris dari 'anak'
+MOTHER|Bahasa Inggris dari 'ibu'
+FATHER|Bahasa Inggris dari 'ayah'
+BROTHER|Bahasa Inggris dari 'kakak'
+FAMILY|Bahasa Inggris dari 'keluarga'
+LOVE|Bahasa Inggris dari 'cinta'
+TIME|Bahasa Inggris dari 'waktu'
+DAY|Bahasa Inggris dari 'hari'
+NIGHT|Bahasa Inggris dari 'malam'
+YEAR|Bahasa Inggris dari 'tahun'
+COLOR|Bahasa Inggris dari 'warna'
+VOICE|Bahasa Inggris dari 'suara'
+WORD|Bahasa Inggris dari 'kata'
+NAME|Bahasa Inggris dari 'nama'
+NUMBER|Bahasa Inggris dari 'angka'
+MONEY|Bahasa Inggris dari 'uang'
+PRICE|Bahasa Inggris dari 'harga'
+JOB|Bahasa Inggris dari 'pekerjaan'
+GAME|Bahasa Inggris dari 'permainan'
+MUSIC|Bahasa Inggris dari 'musik'
+SONG|Bahasa Inggris dari 'lagu'
+STORY|Bahasa Inggris dari 'cerita'
+PICTURE|Bahasa Inggris dari 'gambar'
+LETTER|Bahasa Inggris dari 'surat'
+NEWSPAPER|Bahasa Inggris dari 'koran'
+WHITE|Bahasa Inggris dari 'putih'
+BLACK|Bahasa Inggris dari 'hitam'
+RED|Bahasa Inggris dari 'merah'
+BLUE|Bahasa Inggris dari 'biru'
+GREEN|Bahasa Inggris dari 'hijau'
+YELLOW|Bahasa Inggris dari 'kuning'
+BIG|Bahasa Inggris dari 'besar'
+SMALL|Bahasa Inggris dari 'kecil'
+LONG|Bahasa Inggris dari 'panjang'
+SHORT|Bahasa Inggris dari 'pendek'
+TALL|Bahasa Inggris dari 'tinggi'
+HOT|Bahasa Inggris dari 'panas'
+COLD|Bahasa Inggris dari 'dingin'
+NEW|Bahasa Inggris dari 'baru'
+OLD|Bahasa Inggris dari 'lama'
+FAST|Bahasa Inggris dari 'cepat'
+SLOW|Bahasa Inggris dari 'lambat'
+STRONG|Bahasa Inggris dari 'kuat'
+WEAK|Bahasa Inggris dari 'lemah'
+EASY|Bahasa Inggris dari 'mudah'
+HARD|Bahasa Inggris dari 'sulit'
+HAPPY|Bahasa Inggris dari 'bahagia'
+SAD|Bahasa Inggris dari 'sedih'
+ANGRY|Bahasa Inggris dari 'marah'
+AFRAID|Bahasa Inggris dari 'takut'
+BRAVE|Bahasa Inggris dari 'berani'
+SMART|Bahasa Inggris dari 'pintar'
+STUPID|Bahasa Inggris dari 'bodoh'
+RICH|Bahasa Inggris dari 'kaya'
+POOR|Bahasa Inggris dari 'miskin'
+CLEAN|Bahasa Inggris dari 'bersih'
+DIRTY|Bahasa Inggris dari 'kotor'
+EAT|Bahasa Inggris dari 'makan'
+DRINK|Bahasa Inggris dari 'minum'
+SLEEP|Bahasa Inggris dari 'tidur'
+RUN|Bahasa Inggris dari 'lari'
+WALK|Bahasa Inggris dari 'jalan kaki'
+JUMP|Bahasa Inggris dari 'lompat'
+SIT|Bahasa Inggris dari 'duduk'
+STAND|Bahasa Inggris dari 'berdiri'
+READ|Bahasa Inggris dari 'membaca'
+WRITE|Bahasa Inggris dari 'menulis'
+SPEAK|Bahasa Inggris dari 'berbicara'
+HEAR|Bahasa Inggris dari 'mendengar'
+SEE|Bahasa Inggris dari 'melihat'
+BUY|Bahasa Inggris dari 'membeli'
+SELL|Bahasa Inggris dari 'menjual'
+OPEN|Bahasa Inggris dari 'membuka'
+CLOSE|Bahasa Inggris dari 'menutup'
+WORK|Bahasa Inggris dari 'bekerja'
+PLAY|Bahasa Inggris dari 'bermain'
+SING|Bahasa Inggris dari 'menyanyi'
+DANCE|Bahasa Inggris dari 'menari'
+SMILE|Bahasa Inggris dari 'tersenyum'
+CRY|Bahasa Inggris dari 'menangis'
+LAUGH|Bahasa Inggris dari 'tertawa'
+KUCING|Terjemahan Indonesia dari 'cat' (Inggris)
+ANJING|Terjemahan Indonesia dari 'dog' (Inggris)
+BURUNG|Terjemahan Indonesia dari 'bird' (Inggris)
+IKAN|Terjemahan Indonesia dari 'fish' (Inggris)
+KUDA|Terjemahan Indonesia dari 'horse' (Inggris)
+SAPI|Terjemahan Indonesia dari 'cow' (Inggris)
+KAMBING|Terjemahan Indonesia dari 'goat' (Inggris)
+DOMBA|Terjemahan Indonesia dari 'sheep' (Inggris)
+BABI|Terjemahan Indonesia dari 'pig' (Inggris)
+AYAM|Terjemahan Indonesia dari 'chicken' (Inggris)
+BEBEK|Terjemahan Indonesia dari 'duck' (Inggris)
+KELINCI|Terjemahan Indonesia dari 'rabbit' (Inggris)
+TIKUS|Terjemahan Indonesia dari 'mouse' (Inggris)
+SINGA|Terjemahan Indonesia dari 'lion' (Inggris)
+HARIMAU|Terjemahan Indonesia dari 'tiger' (Inggris)
+BERUANG|Terjemahan Indonesia dari 'bear' (Inggris)
+GAJAH|Terjemahan Indonesia dari 'elephant' (Inggris)
+MONYET|Terjemahan Indonesia dari 'monkey' (Inggris)
+RUBAH|Terjemahan Indonesia dari 'fox' (Inggris)
+SERIGALA|Terjemahan Indonesia dari 'wolf' (Inggris)
+ULAR|Terjemahan Indonesia dari 'snake' (Inggris)
+KATAK|Terjemahan Indonesia dari 'frog' (Inggris)
+LEBAH|Terjemahan Indonesia dari 'bee' (Inggris)
+SEMUT|Terjemahan Indonesia dari 'ant' (Inggris)
+NYAMUK|Terjemahan Indonesia dari 'mosquito' (Inggris)
+LALAT|Terjemahan Indonesia dari 'fly' (Inggris)
+BUKU|Terjemahan Indonesia dari 'book' (Inggris)
+PENA|Terjemahan Indonesia dari 'pen' (Inggris)
+PENSIL|Terjemahan Indonesia dari 'pencil' (Inggris)
+KERTAS|Terjemahan Indonesia dari 'paper' (Inggris)
+MEJA|Terjemahan Indonesia dari 'table' (Inggris)
+KURSI|Terjemahan Indonesia dari 'chair' (Inggris)
+PINTU|Terjemahan Indonesia dari 'door' (Inggris)
+JENDELA|Terjemahan Indonesia dari 'window' (Inggris)
+KUNCI|Terjemahan Indonesia dari 'key' (Inggris)
+JAM|Terjemahan Indonesia dari 'clock' (Inggris)
+LAMPU|Terjemahan Indonesia dari 'lamp' (Inggris)
+RUMAH|Terjemahan Indonesia dari 'house' (Inggris)
+SEKOLAH|Terjemahan Indonesia dari 'school' (Inggris)
+KOTA|Terjemahan Indonesia dari 'city' (Inggris)
+DESA|Terjemahan Indonesia dari 'village' (Inggris)
+JALAN|Terjemahan Indonesia dari 'road' (Inggris)
+JEMBATAN|Terjemahan Indonesia dari 'bridge' (Inggris)
+GEREJA|Terjemahan Indonesia dari 'church' (Inggris)
+KEBUN|Terjemahan Indonesia dari 'garden' (Inggris)
+POHON|Terjemahan Indonesia dari 'tree' (Inggris)
+BUNGA|Terjemahan Indonesia dari 'flower' (Inggris)
+DAUN|Terjemahan Indonesia dari 'leaf' (Inggris)
+RUMPUT|Terjemahan Indonesia dari 'grass' (Inggris)
+AKAR|Terjemahan Indonesia dari 'root' (Inggris)
+BIJI|Terjemahan Indonesia dari 'seed' (Inggris)
+HUTAN|Terjemahan Indonesia dari 'forest' (Inggris)
+GUNUNG|Terjemahan Indonesia dari 'mountain' (Inggris)
+SUNGAI|Terjemahan Indonesia dari 'river' (Inggris)
+DANAU|Terjemahan Indonesia dari 'lake' (Inggris)
+LAUT|Terjemahan Indonesia dari 'sea' (Inggris)
+PANTAI|Terjemahan Indonesia dari 'beach' (Inggris)
+PULAU|Terjemahan Indonesia dari 'island' (Inggris)
+LANGIT|Terjemahan Indonesia dari 'sky' (Inggris)
+MATAHARI|Terjemahan Indonesia dari 'sun' (Inggris)
+BULAN|Terjemahan Indonesia dari 'moon' (Inggris)
+BINTANG|Terjemahan Indonesia dari 'star' (Inggris)
+AWAN|Terjemahan Indonesia dari 'cloud' (Inggris)
+HUJAN|Terjemahan Indonesia dari 'rain' (Inggris)
+SALJU|Terjemahan Indonesia dari 'snow' (Inggris)
+ANGIN|Terjemahan Indonesia dari 'wind' (Inggris)
+API|Terjemahan Indonesia dari 'fire' (Inggris)
+AIR|Terjemahan Indonesia dari 'water' (Inggris)
+TANAH|Terjemahan Indonesia dari 'soil' (Inggris)
+BATU|Terjemahan Indonesia dari 'stone' (Inggris)
+PASIR|Terjemahan Indonesia dari 'sand' (Inggris)
+ASAP|Terjemahan Indonesia dari 'smoke' (Inggris)
+KEPALA|Terjemahan Indonesia dari 'head' (Inggris)
+RAMBUT|Terjemahan Indonesia dari 'hair' (Inggris)
+MATA|Terjemahan Indonesia dari 'eye' (Inggris)
+HIDUNG|Terjemahan Indonesia dari 'nose' (Inggris)
+MULUT|Terjemahan Indonesia dari 'mouth' (Inggris)
+GIGI|Terjemahan Indonesia dari 'tooth' (Inggris)
+LIDAH|Terjemahan Indonesia dari 'tongue' (Inggris)
+TELINGA|Terjemahan Indonesia dari 'ear' (Inggris)
+LEHER|Terjemahan Indonesia dari 'neck' (Inggris)
+BAHU|Terjemahan Indonesia dari 'shoulder' (Inggris)
+LENGAN|Terjemahan Indonesia dari 'arm' (Inggris)
+JARI|Terjemahan Indonesia dari 'finger' (Inggris)
+KAKI|Terjemahan Indonesia dari 'foot' (Inggris)
+LUTUT|Terjemahan Indonesia dari 'knee' (Inggris)
+JANTUNG|Terjemahan Indonesia dari 'heart' (Inggris)
+DARAH|Terjemahan Indonesia dari 'blood' (Inggris)
+TULANG|Terjemahan Indonesia dari 'bone' (Inggris)
+KULIT|Terjemahan Indonesia dari 'skin' (Inggris)
+ROTI|Terjemahan Indonesia dari 'bread' (Inggris)
+NASI|Terjemahan Indonesia dari 'rice' (Inggris)
+TELUR|Terjemahan Indonesia dari 'egg' (Inggris)
+SUSU|Terjemahan Indonesia dari 'milk' (Inggris)
+KEJU|Terjemahan Indonesia dari 'cheese' (Inggris)
+DAGING|Terjemahan Indonesia dari 'meat' (Inggris)
+GARAM|Terjemahan Indonesia dari 'salt' (Inggris)
+GULA|Terjemahan Indonesia dari 'sugar' (Inggris)
+MADU|Terjemahan Indonesia dari 'honey' (Inggris)
+MINYAK|Terjemahan Indonesia dari 'oil' (Inggris)
+TEH|Terjemahan Indonesia dari 'tea' (Inggris)
+KOPI|Terjemahan Indonesia dari 'coffee' (Inggris)
+APEL|Terjemahan Indonesia dari 'apple' (Inggris)
+PISANG|Terjemahan Indonesia dari 'banana' (Inggris)
+JERUK|Terjemahan Indonesia dari 'orange' (Inggris)
+ANGGUR|Terjemahan Indonesia dari 'grape' (Inggris)
+MANGGA|Terjemahan Indonesia dari 'mango' (Inggris)
+NANAS|Terjemahan Indonesia dari 'pineapple' (Inggris)
+SEMANGKA|Terjemahan Indonesia dari 'watermelon' (Inggris)
+STROBERI|Terjemahan Indonesia dari 'strawberry' (Inggris)
+TOMAT|Terjemahan Indonesia dari 'tomato' (Inggris)
+KENTANG|Terjemahan Indonesia dari 'potato' (Inggris)
+WORTEL|Terjemahan Indonesia dari 'carrot' (Inggris)
+BAWANG|Terjemahan Indonesia dari 'onion' (Inggris)
+JAGUNG|Terjemahan Indonesia dari 'corn' (Inggris)
+BAJU|Terjemahan Indonesia dari 'shirt' (Inggris)
+CELANA|Terjemahan Indonesia dari 'pants' (Inggris)
+SEPATU|Terjemahan Indonesia dari 'shoe' (Inggris)
+TOPI|Terjemahan Indonesia dari 'hat' (Inggris)
+JAKET|Terjemahan Indonesia dari 'jacket' (Inggris)
+TAS|Terjemahan Indonesia dari 'bag' (Inggris)
+DOMPET|Terjemahan Indonesia dari 'wallet' (Inggris)
+CINCIN|Terjemahan Indonesia dari 'ring' (Inggris)
+MOBIL|Terjemahan Indonesia dari 'car' (Inggris)
+SEPEDA|Terjemahan Indonesia dari 'bike' (Inggris)
+KERETA|Terjemahan Indonesia dari 'train' (Inggris)
+KAPAL|Terjemahan Indonesia dari 'ship' (Inggris)
+PERAHU|Terjemahan Indonesia dari 'boat' (Inggris)
+PESAWAT|Terjemahan Indonesia dari 'plane' (Inggris)
+TRUK|Terjemahan Indonesia dari 'truck' (Inggris)
+GURU|Terjemahan Indonesia dari 'teacher' (Inggris)
+MURID|Terjemahan Indonesia dari 'student' (Inggris)
+DOKTER|Terjemahan Indonesia dari 'doctor' (Inggris)
+PERAWAT|Terjemahan Indonesia dari 'nurse' (Inggris)
+PETANI|Terjemahan Indonesia dari 'farmer' (Inggris)
+KOKI|Terjemahan Indonesia dari 'cook' (Inggris)
+RAJA|Terjemahan Indonesia dari 'king' (Inggris)
+RATU|Terjemahan Indonesia dari 'queen' (Inggris)
+TEMAN|Terjemahan Indonesia dari 'friend' (Inggris)
+MUSUH|Terjemahan Indonesia dari 'enemy' (Inggris)
+BAYI|Terjemahan Indonesia dari 'baby' (Inggris)
+ANAK|Terjemahan Indonesia dari 'child' (Inggris)
+IBU|Terjemahan Indonesia dari 'mother' (Inggris)
+AYAH|Terjemahan Indonesia dari 'father' (Inggris)
+KAKAK|Terjemahan Indonesia dari 'brother' (Inggris)
+KELUARGA|Terjemahan Indonesia dari 'family' (Inggris)
+CINTA|Terjemahan Indonesia dari 'love' (Inggris)
+WAKTU|Terjemahan Indonesia dari 'time' (Inggris)
+HARI|Terjemahan Indonesia dari 'day' (Inggris)
+MALAM|Terjemahan Indonesia dari 'night' (Inggris)
+TAHUN|Terjemahan Indonesia dari 'year' (Inggris)
+WARNA|Terjemahan Indonesia dari 'color' (Inggris)
+SUARA|Terjemahan Indonesia dari 'voice' (Inggris)
+KATA|Terjemahan Indonesia dari 'word' (Inggris)
+NAMA|Terjemahan Indonesia dari 'name' (Inggris)
+ANGKA|Terjemahan Indonesia dari 'number' (Inggris)
+UANG|Terjemahan Indonesia dari 'money' (Inggris)
+HARGA|Terjemahan Indonesia dari 'price' (Inggris)
+PEKERJAAN|Terjemahan Indonesia dari 'job' (Inggris)
+PERMAINAN|Terjemahan Indonesia dari 'game' (Inggris)
+MUSIK|Terjemahan Indonesia dari 'music' (Inggris)
+LAGU|Terjemahan Indonesia dari 'song' (Inggris)
+CERITA|Terjemahan Indonesia dari 'story' (Inggris)
+GAMBAR|Terjemahan Indonesia dari 'picture' (Inggris)
+SURAT|Terjemahan Indonesia dari 'letter' (Inggris)
+KORAN|Terjemahan Indonesia dari 'newspaper' (Inggris)
+PUTIH|Terjemahan Indonesia dari 'white' (Inggris)
+HITAM|Terjemahan Indonesia dari 'black' (Inggris)
+MERAH|Terjemahan Indonesia dari 'red' (Inggris)
+BIRU|Terjemahan Indonesia dari 'blue' (Inggris)
+HIJAU|Terjemahan Indonesia dari 'green' (Inggris)
+KUNING|Terjemahan Indonesia dari 'yellow' (Inggris)
+BESAR|Terjemahan Indonesia dari 'big' (Inggris)
+KECIL|Terjemahan Indonesia dari 'small' (Inggris)
+PANJANG|Terjemahan Indonesia dari 'long' (Inggris)
+PENDEK|Terjemahan Indonesia dari 'short' (Inggris)
+TINGGI|Terjemahan Indonesia dari 'tall' (Inggris)
+PANAS|Terjemahan Indonesia dari 'hot' (Inggris)
+DINGIN|Terjemahan Indonesia dari 'cold' (Inggris)
+BARU|Terjemahan Indonesia dari 'new' (Inggris)
+LAMA|Terjemahan Indonesia dari 'old' (Inggris)
+CEPAT|Terjemahan Indonesia dari 'fast' (Inggris)
+LAMBAT|Terjemahan Indonesia dari 'slow' (Inggris)
+KUAT|Terjemahan Indonesia dari 'strong' (Inggris)
+LEMAH|Terjemahan Indonesia dari 'weak' (Inggris)
+MUDAH|Terjemahan Indonesia dari 'easy' (Inggris)
+SULIT|Terjemahan Indonesia dari 'hard' (Inggris)
+BAHAGIA|Terjemahan Indonesia dari 'happy' (Inggris)
+SEDIH|Terjemahan Indonesia dari 'sad' (Inggris)
+MARAH|Terjemahan Indonesia dari 'angry' (Inggris)
+TAKUT|Terjemahan Indonesia dari 'afraid' (Inggris)
+BERANI|Terjemahan Indonesia dari 'brave' (Inggris)
+PINTAR|Terjemahan Indonesia dari 'smart' (Inggris)
+BODOH|Terjemahan Indonesia dari 'stupid' (Inggris)
+KAYA|Terjemahan Indonesia dari 'rich' (Inggris)
+MISKIN|Terjemahan Indonesia dari 'poor' (Inggris)
+BERSIH|Terjemahan Indonesia dari 'clean' (Inggris)
+KOTOR|Terjemahan Indonesia dari 'dirty' (Inggris)
+MAKAN|Terjemahan Indonesia dari 'eat' (Inggris)
+MINUM|Terjemahan Indonesia dari 'drink' (Inggris)
+TIDUR|Terjemahan Indonesia dari 'sleep' (Inggris)
+LARI|Terjemahan Indonesia dari 'run' (Inggris)
+LOMPAT|Terjemahan Indonesia dari 'jump' (Inggris)
+DUDUK|Terjemahan Indonesia dari 'sit' (Inggris)
+BERDIRI|Terjemahan Indonesia dari 'stand' (Inggris)
+MEMBACA|Terjemahan Indonesia dari 'read' (Inggris)
+MENULIS|Terjemahan Indonesia dari 'write' (Inggris)
+BERBICARA|Terjemahan Indonesia dari 'speak' (Inggris)
+MENDENGAR|Terjemahan Indonesia dari 'hear' (Inggris)
+MELIHAT|Terjemahan Indonesia dari 'see' (Inggris)
+MEMBELI|Terjemahan Indonesia dari 'buy' (Inggris)
+MENJUAL|Terjemahan Indonesia dari 'sell' (Inggris)
+MEMBUKA|Terjemahan Indonesia dari 'open' (Inggris)
+MENUTUP|Terjemahan Indonesia dari 'close' (Inggris)
+BEKERJA|Terjemahan Indonesia dari 'work' (Inggris)
+BERMAIN|Terjemahan Indonesia dari 'play' (Inggris)
+MENYANYI|Terjemahan Indonesia dari 'sing' (Inggris)
+MENARI|Terjemahan Indonesia dari 'dance' (Inggris)
+TERSENYUM|Terjemahan Indonesia dari 'smile' (Inggris)
+MENANGIS|Terjemahan Indonesia dari 'cry' (Inggris)
+TERTAWA|Terjemahan Indonesia dari 'laugh' (Inggris)
+PAGAR|Struktur sekeliling rumah
+RODA|Bagian kendaraan berbentuk bundar
+BUMI|Planet tempat manusia tinggal
+PIRING|Wadah tempat menaruh makanan
+GELAS|Wadah untuk minum
+SENDOK|Alat makan untuk nasi berkuah
+GARPU|Alat makan bergigi tajam
+PISAU|Alat tajam untuk memotong
+KIPAS|Alat pendingin dengan angin
+PAYUNG|Pelindung dari hujan
+KACA|Benda bening pemantul bayangan
+SABUN|Untuk membersihkan badan saat mandi
+SIKAT|Alat menggosok gigi
+HANDUK|Kain pengering badan
+BANTAL|Alas kepala saat tidur
+SELIMUT|Penghangat tubuh saat tidur
+TANGGA|Untuk naik ke lantai atas
+ATAP|Bagian paling atas rumah
+LANTAI|Bagian bawah yang diinjak di rumah
+DINDING|Pembatas ruangan yang tegak
+DAPUR|Tempat memasak di rumah
+KAMAR|Ruang untuk tidur
+SUMUR|Sumber air galian di tanah
+EMBER|Wadah air bergagang
+SAPU|Alat membersihkan lantai
+KAMPUNG|Permukiman di pedesaan
+SAWAH|Lahan basah tempat menanam padi
+LADANG|Lahan kering pertanian
+PASAR|Tempat jual beli barang
+BOLA|Benda bulat untuk sepak
+PELANGI|Busur tujuh warna setelah hujan
+KABUT|Uap tebal yang menghalangi pandangan
+PETIR|Kilatan cahaya saat badai
+GEMPA|Getaran permukaan bumi
+JERAPAH|Hewan berleher sangat panjang
+ZEBRA|Kuda liar bergaris hitam putih
+BUAYA|Reptil besar penghuni sungai
+PENYU|Kura-kura laut
+HIU|Ikan besar pemangsa di laut
+PAUS|Mamalia terbesar di laut
+LUMBA|Mamalia laut cerdas suka melompat
+MERPATI|Burung pembawa pesan
+ELANG|Burung pemangsa bermata tajam
+MANGKUK|Wadah cekung untuk sup
+TEKO|Wadah untuk menyeduh teh
+PANCI|Wadah masak bergagang
+WAJAN|Alat menggoreng
+KOMPOR|Alat memasak berapi
+KULKAS|Lemari pendingin makanan
+TELEVISI|Kotak penyaji siaran gambar
+RADIO|Alat penyiar suara gelombang
+PENGGARIS|Alat untuk membuat garis lurus dan mengukur panjang
+PENGHAPUS|Alat menghapus tulisan pensil
+SPIDOL|Pena tebal untuk papan tulis
+KRAYON|Pensil warna dari lilin
+BENDERA|Kain lambang negara
+MENTEGA|Olesan lembut kuning untuk roti
+COKELAT|Camilan manis dari biji kakao
+PERMEN|Gula-gula manis kesukaan anak
+KERUPUK|Camilan renyah pendamping nasi
+BAKSO|Bola daging dalam kuah
+SATE|Daging ditusuk lalu dibakar
+SOTO|Sup berkuah kuning khas Indonesia
+RENDANG|Masakan daging bumbu Padang
+SEAL|Bahasa Inggris dari 'singa laut'
+OCTOPUS|Bahasa Inggris dari 'gurita'
+SHRIMP|Bahasa Inggris dari 'udang'
+CRAB|Bahasa Inggris dari 'kepiting'
+WORM|Bahasa Inggris dari 'cacing'
+SNAIL|Bahasa Inggris dari 'siput'
+LIZARD|Bahasa Inggris dari 'kadal'
+TURTLE|Bahasa Inggris dari 'kura-kura'
+CAMEL|Bahasa Inggris dari 'unta'
+DONKEY|Bahasa Inggris dari 'keledai'
+SQUIRREL|Bahasa Inggris dari 'tupai'
+HEDGEHOG|Bahasa Inggris dari 'landak'
+BAT|Bahasa Inggris dari 'kelelawar'
+PEACOCK|Bahasa Inggris dari 'merak'
+SWAN|Bahasa Inggris dari 'angsa'
+OWL|Bahasa Inggris dari 'burung hantu'
+HANDKERCHIEF|Bahasa Inggris dari 'sapu tangan'
+GLOVE|Bahasa Inggris dari 'sarung tangan'
+SOCK|Bahasa Inggris dari 'kaus kaki'
+BELT|Bahasa Inggris dari 'sabuk'
+TIE|Bahasa Inggris dari 'dasi'
+CHEST|Bahasa Inggris dari 'payudara'
+BACK|Bahasa Inggris dari 'punggung'
+STOMACH|Bahasa Inggris dari 'perut'
+ELBOW|Bahasa Inggris dari 'siku'
+WRIST|Bahasa Inggris dari 'pergelangan'
+HEEL|Bahasa Inggris dari 'tumit'
+EYEBROW|Bahasa Inggris dari 'alis'
+EYELASH|Bahasa Inggris dari 'bulu mata'
+LIP|Bahasa Inggris dari 'bibir'
+CHEEK|Bahasa Inggris dari 'pipi'
+CHIN|Bahasa Inggris dari 'dagu'
+FOREHEAD|Bahasa Inggris dari 'dahi'
+BRAIN|Bahasa Inggris dari 'otak'
+LUNG|Bahasa Inggris dari 'paru'
+LIVER|Bahasa Inggris dari 'hati'
+MUSCLE|Bahasa Inggris dari 'otot'
+VEIN|Bahasa Inggris dari 'urat'
+NERVE|Bahasa Inggris dari 'saraf'
+MORNING|Bahasa Inggris dari 'pagi'
+NOON|Bahasa Inggris dari 'siang'
+AFTERNOON|Bahasa Inggris dari 'sore'
+WEEK|Bahasa Inggris dari 'minggu'
+MONTH|Bahasa Inggris dari 'bulan kalender'
+SEASON|Bahasa Inggris dari 'musim'
+YESTERDAY|Bahasa Inggris dari 'kemarin'
+TOMORROW|Bahasa Inggris dari 'besok'
+NOW|Bahasa Inggris dari 'sekarang'
+LATER|Bahasa Inggris dari 'nanti'
+NORTH|Bahasa Inggris dari 'utara'
+SOUTH|Bahasa Inggris dari 'selatan'
+EAST|Bahasa Inggris dari 'timur'
+WEST|Bahasa Inggris dari 'barat'
+LEFT|Bahasa Inggris dari 'kiri'
+RIGHT|Bahasa Inggris dari 'kanan'
+DOWN|Bahasa Inggris dari 'bawah'
+FRONT|Bahasa Inggris dari 'depan'
+MIDDLE|Bahasa Inggris dari 'tengah'
+NEAR|Bahasa Inggris dari 'dekat'
+FAR|Bahasa Inggris dari 'jauh'
+DEEP|Bahasa Inggris dari 'dalam'
+OUTSIDE|Bahasa Inggris dari 'luar'
+WORLD|Bahasa Inggris dari 'dunia'
+COUNTRY|Bahasa Inggris dari 'negara'
+LANGUAGE|Bahasa Inggris dari 'bahasa'
+RELIGION|Bahasa Inggris dari 'agama'
+CULTURE|Bahasa Inggris dari 'budaya'
+HISTORY|Bahasa Inggris dari 'sejarah'
+SCIENCE|Bahasa Inggris dari 'ilmu'
+ART|Bahasa Inggris dari 'seni'
+LAW|Bahasa Inggris dari 'hukum'
+WAR|Bahasa Inggris dari 'perang'
+PEACE|Bahasa Inggris dari 'damai'
+FREEDOM|Bahasa Inggris dari 'kebebasan'
+JUSTICE|Bahasa Inggris dari 'keadilan'
+TRUTH|Bahasa Inggris dari 'kebenaran'
+LIE|Bahasa Inggris dari 'kebohongan'
+HOPE|Bahasa Inggris dari 'harapan'
+DREAM|Bahasa Inggris dari 'mimpi'
+MEMORY|Bahasa Inggris dari 'ingatan'
+MIND|Bahasa Inggris dari 'pikiran'
+FEELING|Bahasa Inggris dari 'perasaan'
+SOUL|Bahasa Inggris dari 'jiwa'
+BODY|Bahasa Inggris dari 'tubuh'
+HEALTH|Bahasa Inggris dari 'kesehatan'
+DISEASE|Bahasa Inggris dari 'penyakit'
+MEDICINE|Bahasa Inggris dari 'obat'
+HOSPITAL|Bahasa Inggris dari 'rumah sakit'
+PHARMACY|Bahasa Inggris dari 'apotek'
+OFFICE|Bahasa Inggris dari 'kantor'
+FACTORY|Bahasa Inggris dari 'pabrik'
+SHOP|Bahasa Inggris dari 'toko'
+RESTAURANT|Bahasa Inggris dari 'restoran'
+AIRPORT|Bahasa Inggris dari 'bandara'
+STATION|Bahasa Inggris dari 'stasiun'
+HARBOR|Bahasa Inggris dari 'pelabuhan'
+PRISON|Bahasa Inggris dari 'penjara'
+LIBRARY|Bahasa Inggris dari 'perpustakaan'
+PARK|Bahasa Inggris dari 'taman'
+ZOO|Bahasa Inggris dari 'kebun binatang'
+VOLCANO|Bahasa Inggris dari 'gunung berapi'
+CAVE|Bahasa Inggris dari 'gua'
+DESERT|Bahasa Inggris dari 'gurun'
+VALLEY|Bahasa Inggris dari 'lembah'
+WATERFALL|Bahasa Inggris dari 'air terjun'
+POND|Bahasa Inggris dari 'kolam'
+SPRING|Bahasa Inggris dari 'mata air'
+FLOOD|Bahasa Inggris dari 'banjir'
+DROUGHT|Bahasa Inggris dari 'kekeringan'
+STORM|Bahasa Inggris dari 'badai'
+THUNDER|Bahasa Inggris dari 'guntur'
+LIGHTNING|Bahasa Inggris dari 'kilat'
+SHADOW|Bahasa Inggris dari 'bayangan'
+LIGHT|Bahasa Inggris dari 'cahaya'
+DARKNESS|Bahasa Inggris dari 'kegelapan'
+RAINBOW|Bahasa Inggris dari 'warna-warni'
+METAL|Bahasa Inggris dari 'logam'
+WOOD|Bahasa Inggris dari 'kayu'
+GLASS|Bahasa Inggris dari 'kaca jendela'
+PLASTIC|Bahasa Inggris dari 'plastik'
+RUBBER|Bahasa Inggris dari 'karet'
+CLOTH|Bahasa Inggris dari 'kain'
+THREAD|Bahasa Inggris dari 'benang'
+NEEDLE|Bahasa Inggris dari 'jarum'
+NAIL|Bahasa Inggris dari 'paku'
+HAMMER|Bahasa Inggris dari 'palu'
+SAW|Bahasa Inggris dari 'gergaji'
+LADDER|Bahasa Inggris dari 'tangga lipat'
+GURITA|Terjemahan Indonesia dari 'octopus' (Inggris)
+UDANG|Terjemahan Indonesia dari 'shrimp' (Inggris)
+KEPITING|Terjemahan Indonesia dari 'crab' (Inggris)
+CACING|Terjemahan Indonesia dari 'worm' (Inggris)
+SIPUT|Terjemahan Indonesia dari 'snail' (Inggris)
+KADAL|Terjemahan Indonesia dari 'lizard' (Inggris)
+UNTA|Terjemahan Indonesia dari 'camel' (Inggris)
+KELEDAI|Terjemahan Indonesia dari 'donkey' (Inggris)
+TUPAI|Terjemahan Indonesia dari 'squirrel' (Inggris)
+LANDAK|Terjemahan Indonesia dari 'hedgehog' (Inggris)
+KELELAWAR|Terjemahan Indonesia dari 'bat' (Inggris)
+MERAK|Terjemahan Indonesia dari 'peacock' (Inggris)
+ANGSA|Terjemahan Indonesia dari 'swan' (Inggris)
+SABUK|Terjemahan Indonesia dari 'belt' (Inggris)
+DASI|Terjemahan Indonesia dari 'tie' (Inggris)
+PAYUDARA|Terjemahan Indonesia dari 'chest' (Inggris)
+PUNGGUNG|Terjemahan Indonesia dari 'back' (Inggris)
+PERUT|Terjemahan Indonesia dari 'stomach' (Inggris)
+SIKU|Terjemahan Indonesia dari 'elbow' (Inggris)
+PERGELANGAN|Terjemahan Indonesia dari 'wrist' (Inggris)
+TUMIT|Terjemahan Indonesia dari 'heel' (Inggris)
+ALIS|Terjemahan Indonesia dari 'eyebrow' (Inggris)
+BIBIR|Terjemahan Indonesia dari 'lip' (Inggris)
+PIPI|Terjemahan Indonesia dari 'cheek' (Inggris)
+DAGU|Terjemahan Indonesia dari 'chin' (Inggris)
+DAHI|Terjemahan Indonesia dari 'forehead' (Inggris)
+OTAK|Terjemahan Indonesia dari 'brain' (Inggris)
+PARU|Terjemahan Indonesia dari 'lung' (Inggris)
+HATI|Terjemahan Indonesia dari 'liver' (Inggris)
+OTOT|Terjemahan Indonesia dari 'muscle' (Inggris)
+URAT|Terjemahan Indonesia dari 'vein' (Inggris)
+SARAF|Terjemahan Indonesia dari 'nerve' (Inggris)
+PAGI|Terjemahan Indonesia dari 'morning' (Inggris)
+SIANG|Terjemahan Indonesia dari 'noon' (Inggris)
+SORE|Terjemahan Indonesia dari 'afternoon' (Inggris)
+MINGGU|Terjemahan Indonesia dari 'week' (Inggris)
+MUSIM|Terjemahan Indonesia dari 'season' (Inggris)
+KEMARIN|Terjemahan Indonesia dari 'yesterday' (Inggris)
+BESOK|Terjemahan Indonesia dari 'tomorrow' (Inggris)
+SEKARANG|Terjemahan Indonesia dari 'now' (Inggris)
+NANTI|Terjemahan Indonesia dari 'later' (Inggris)
+UTARA|Terjemahan Indonesia dari 'north' (Inggris)
+SELATAN|Terjemahan Indonesia dari 'south' (Inggris)
+TIMUR|Terjemahan Indonesia dari 'east' (Inggris)
+BARAT|Terjemahan Indonesia dari 'west' (Inggris)
+KIRI|Terjemahan Indonesia dari 'left' (Inggris)
+KANAN|Terjemahan Indonesia dari 'right' (Inggris)
+ATAS|Terjemahan Indonesia dari 'up' (Inggris)
+BAWAH|Terjemahan Indonesia dari 'down' (Inggris)
+DEPAN|Terjemahan Indonesia dari 'front' (Inggris)
+TENGAH|Terjemahan Indonesia dari 'middle' (Inggris)
+DEKAT|Terjemahan Indonesia dari 'near' (Inggris)
+JAUH|Terjemahan Indonesia dari 'far' (Inggris)
+DALAM|Terjemahan Indonesia dari 'deep' (Inggris)
+LUAR|Terjemahan Indonesia dari 'outside' (Inggris)
+DUNIA|Terjemahan Indonesia dari 'world' (Inggris)
+NEGARA|Terjemahan Indonesia dari 'country' (Inggris)
+BAHASA|Terjemahan Indonesia dari 'language' (Inggris)
+AGAMA|Terjemahan Indonesia dari 'religion' (Inggris)
+BUDAYA|Terjemahan Indonesia dari 'culture' (Inggris)
+SEJARAH|Terjemahan Indonesia dari 'history' (Inggris)
+ILMU|Terjemahan Indonesia dari 'science' (Inggris)
+SENI|Terjemahan Indonesia dari 'art' (Inggris)
+HUKUM|Terjemahan Indonesia dari 'law' (Inggris)
+PERANG|Terjemahan Indonesia dari 'war' (Inggris)
+DAMAI|Terjemahan Indonesia dari 'peace' (Inggris)
+KEBEBASAN|Terjemahan Indonesia dari 'freedom' (Inggris)
+KEADILAN|Terjemahan Indonesia dari 'justice' (Inggris)
+KEBENARAN|Terjemahan Indonesia dari 'truth' (Inggris)
+KEBOHONGAN|Terjemahan Indonesia dari 'lie' (Inggris)
+HARAPAN|Terjemahan Indonesia dari 'hope' (Inggris)
+MIMPI|Terjemahan Indonesia dari 'dream' (Inggris)
+INGATAN|Terjemahan Indonesia dari 'memory' (Inggris)
+PIKIRAN|Terjemahan Indonesia dari 'mind' (Inggris)
+PERASAAN|Terjemahan Indonesia dari 'feeling' (Inggris)
+JIWA|Terjemahan Indonesia dari 'soul' (Inggris)
+TUBUH|Terjemahan Indonesia dari 'body' (Inggris)
+KESEHATAN|Terjemahan Indonesia dari 'health' (Inggris)
+PENYAKIT|Terjemahan Indonesia dari 'disease' (Inggris)
+OBAT|Terjemahan Indonesia dari 'medicine' (Inggris)
+APOTEK|Terjemahan Indonesia dari 'pharmacy' (Inggris)
+KANTOR|Terjemahan Indonesia dari 'office' (Inggris)
+PABRIK|Terjemahan Indonesia dari 'factory' (Inggris)
+TOKO|Terjemahan Indonesia dari 'shop' (Inggris)
+RESTORAN|Terjemahan Indonesia dari 'restaurant' (Inggris)
+BANDARA|Terjemahan Indonesia dari 'airport' (Inggris)
+STASIUN|Terjemahan Indonesia dari 'station' (Inggris)
+PELABUHAN|Terjemahan Indonesia dari 'harbor' (Inggris)
+PENJARA|Terjemahan Indonesia dari 'prison' (Inggris)
+PERPUSTAKAAN|Terjemahan Indonesia dari 'library' (Inggris)
+TAMAN|Terjemahan Indonesia dari 'park' (Inggris)
+GUA|Terjemahan Indonesia dari 'cave' (Inggris)
+GURUN|Terjemahan Indonesia dari 'desert' (Inggris)
+LEMBAH|Terjemahan Indonesia dari 'valley' (Inggris)
+KOLAM|Terjemahan Indonesia dari 'pond' (Inggris)
+BANJIR|Terjemahan Indonesia dari 'flood' (Inggris)
+KEKERINGAN|Terjemahan Indonesia dari 'drought' (Inggris)
+BADAI|Terjemahan Indonesia dari 'storm' (Inggris)
+GUNTUR|Terjemahan Indonesia dari 'thunder' (Inggris)
+KILAT|Terjemahan Indonesia dari 'lightning' (Inggris)
+BAYANGAN|Terjemahan Indonesia dari 'shadow' (Inggris)
+CAHAYA|Terjemahan Indonesia dari 'light' (Inggris)
+KEGELAPAN|Terjemahan Indonesia dari 'darkness' (Inggris)
+LOGAM|Terjemahan Indonesia dari 'metal' (Inggris)
+KAYU|Terjemahan Indonesia dari 'wood' (Inggris)
+PLASTIK|Terjemahan Indonesia dari 'plastic' (Inggris)
+KARET|Terjemahan Indonesia dari 'rubber' (Inggris)
+KAIN|Terjemahan Indonesia dari 'cloth' (Inggris)
+BENANG|Terjemahan Indonesia dari 'thread' (Inggris)
+JARUM|Terjemahan Indonesia dari 'needle' (Inggris)
+PAKU|Terjemahan Indonesia dari 'nail' (Inggris)
+GERGAJI|Terjemahan Indonesia dari 'saw' (Inggris)
+RENDAH|Lawan kata 'tinggi'
+KERING|Lawan kata 'basah'
+TERANG|Lawan kata 'gelap'
+RINGAN|Lawan kata 'berat'
+LEMBUT|Lawan kata 'kasar'
+TAJAM|Lawan kata 'tumpul'
+PENUH|Lawan kata 'kosong'
+BENAR|Lawan kata 'salah'
+MURAH|Lawan kata 'mahal'
+MUDA|Lawan kata 'tua'
+BANGUN|Lawan kata 'tidur'
+MENANG|Lawan kata 'kalah'
+BUKA|Lawan kata 'tutup'
+NAIK|Lawan kata 'turun'
+MASUK|Lawan kata 'keluar'
+DATANG|Lawan kata 'pergi'
+MULAI|Lawan kata 'selesai'
+RAJIN|Lawan kata 'malas'
+JUJUR|Lawan kata 'bohong'
+HEMAT|Lawan kata 'boros'
+SEHAT|Lawan kata 'sakit'
+TEBAL|Lawan kata 'tipis'
+LEBAR|Lawan kata 'sempit'
+LURUS|Lawan kata 'bengkok'
+SENDAL|Alas kaki terbuka santai
+KACAMATA|Alat bantu penglihatan di wajah
+TEROWONGAN|Lorong tembus di bawah gunung
+MENARA|Bangunan tinggi menjulang
+BENTENG|Bangunan pertahanan berdinding tebal
+ISTANA|Tempat tinggal raja
+GUBUK|Rumah kecil sederhana di ladang
+JANGKAR|Penahan kapal agar tak hanyut
+LAYAR|Kain penangkap angin di perahu
+DAYUNG|Alat mengayuh perahu
+PANCING|Alat menangkap ikan berkail
+JALA|Jaring penangkap ikan
+CANGKUL|Alat menggali tanah petani
+SABIT|Alat pemotong rumput melengkung
+LUMBUNG|Tempat menyimpan hasil panen
+KANDANG|Tempat memelihara ternak
+SARANG|Rumah burung dari ranting
+TELAGA|Kolam air alami di pegunungan
+OASE|Sumber air di tengah gurun
+KARANG|Batuan berpori tempat ikan hias
+OMBAK|Gelombang air di pantai
+PASANG|Naiknya air laut
+EMBUN|Titik air pagi di dedaunan
+SIRIP|Alat gerak ikan di air
+SAYAP|Alat terbang burung
+PARUH|Mulut keras burung
+CAKAR|Kuku tajam hewan pemangsa
+SISIK|Pelindung tubuh ular dan ikan
+TANDUK|Senjata keras di kepala sapi
+BELALAI|Hidung panjang gajah
+SURAI|Rambut di leher singa/kuda
+EKOR|Bagian belakang tubuh hewan
+BULU|Penutup tubuh burung
+LOCK|Bahasa Inggris dari 'kunci pintu'
+MIRROR|Bahasa Inggris dari 'cermin'
+BASKET|Bahasa Inggris dari 'keranjang'
+BOTTLE|Bahasa Inggris dari 'botol'
+CAN|Bahasa Inggris dari 'kaleng'
+BOX|Bahasa Inggris dari 'kotak'
+DRAWER|Bahasa Inggris dari 'laci'
+SHELF|Bahasa Inggris dari 'rak'
+CUPBOARD|Bahasa Inggris dari 'lemari'
+CARPET|Bahasa Inggris dari 'karpet'
+CURTAIN|Bahasa Inggris dari 'tirai'
+STOVE|Bahasa Inggris dari 'kompor gas'
+IRON|Bahasa Inggris dari 'setrika'
+BROOM|Bahasa Inggris dari 'sapu lidi'
+TOOTHBRUSH|Bahasa Inggris dari 'sikat gigi'
+SCISSORS|Bahasa Inggris dari 'gunting'
+GLUE|Bahasa Inggris dari 'lem'
+PAINT|Bahasa Inggris dari 'cat'
+BRUSH|Bahasa Inggris dari 'kuas'
+MAP|Bahasa Inggris dari 'peta'
+FLAG|Bahasa Inggris dari 'bendera negara'
+BELL|Bahasa Inggris dari 'lonceng'
+WHISTLE|Bahasa Inggris dari 'peluit'
+FLUTE|Bahasa Inggris dari 'seruling'
+VIOLIN|Bahasa Inggris dari 'biola'
+TRUMPET|Bahasa Inggris dari 'terompet'
+GUITAR|Bahasa Inggris dari 'gitar listrik'
+DRUM|Bahasa Inggris dari 'gendang'
+SUNRISE|Bahasa Inggris dari 'matahari terbit'
+SUNSET|Bahasa Inggris dari 'matahari terbenam'
+WEATHER|Bahasa Inggris dari 'cuaca'
+CLIMATE|Bahasa Inggris dari 'iklim'
+TEMPERATURE|Bahasa Inggris dari 'suhu'
+HUMIDITY|Bahasa Inggris dari 'kelembapan'
+PRESSURE|Bahasa Inggris dari 'tekanan'
+SPEED|Bahasa Inggris dari 'kecepatan'
+DISTANCE|Bahasa Inggris dari 'jarak'
+WEIGHT|Bahasa Inggris dari 'berat'
+HEIGHT|Bahasa Inggris dari 'tinggi badan'
+DEPTH|Bahasa Inggris dari 'kedalaman'
+WIDTH|Bahasa Inggris dari 'lebar'
+SHAPE|Bahasa Inggris dari 'bentuk'
+CIRCLE|Bahasa Inggris dari 'lingkaran'
+SQUARE|Bahasa Inggris dari 'persegi'
+TRIANGLE|Bahasa Inggris dari 'segitiga'
+STARFISH|Bahasa Inggris dari 'bintang laut'
+JELLYFISH|Bahasa Inggris dari 'ubur-ubur'
+SHELL|Bahasa Inggris dari 'kerang'
+PEARL|Bahasa Inggris dari 'mutiara'
+DIAMOND|Bahasa Inggris dari 'berlian'
+GOLD|Bahasa Inggris dari 'emas batangan'
+SILVER|Bahasa Inggris dari 'perak logam'
+COPPER|Bahasa Inggris dari 'tembaga logam'
+STEEL|Bahasa Inggris dari 'besi baja'
+TIN|Bahasa Inggris dari 'timah'
+BRASS|Bahasa Inggris dari 'kuningan'
+WHEAT|Bahasa Inggris dari 'gandum'
+BEAN|Bahasa Inggris dari 'kacang'
+SOYBEAN|Bahasa Inggris dari 'kedelai'
+COTTON|Bahasa Inggris dari 'kapas'
+SILK|Bahasa Inggris dari 'sutra'
+WOOL|Bahasa Inggris dari 'wol'
+LEATHER|Bahasa Inggris dari 'kulit hewan'
+SUMMER|Bahasa Inggris dari 'musim panas'
+AUTUMN|Bahasa Inggris dari 'musim gugur'
+WINTER|Bahasa Inggris dari 'musim dingin'
+CENTURY|Bahasa Inggris dari 'abad'
+DECADE|Bahasa Inggris dari 'dekade'
+MINUTE|Bahasa Inggris dari 'menit'
+SECOND|Bahasa Inggris dari 'detik'
+CALENDAR|Bahasa Inggris dari 'kalender'
+SCHEDULE|Bahasa Inggris dari 'jadwal'
+BREAKFAST|Bahasa Inggris dari 'sarapan'
+LUNCH|Bahasa Inggris dari 'makan siang'
+DINNER|Bahasa Inggris dari 'makan malam'
+RECIPE|Bahasa Inggris dari 'resep'
+FLOUR|Bahasa Inggris dari 'tepung'
+DOUGH|Bahasa Inggris dari 'adonan'
+SOUP|Bahasa Inggris dari 'sup'
+SAUCE|Bahasa Inggris dari 'saus'
+VINEGAR|Bahasa Inggris dari 'cuka'
+PEPPER|Bahasa Inggris dari 'merica'
+GINGER|Bahasa Inggris dari 'jahe'
+TURMERIC|Bahasa Inggris dari 'kunyit'
+CINNAMON|Bahasa Inggris dari 'kayu manis'
+ICECREAM|Bahasa Inggris dari 'es krim'
+CAKE|Bahasa Inggris dari 'kue'
+BISCUIT|Bahasa Inggris dari 'biskuit'
+PIE|Bahasa Inggris dari 'pai'
+SYRUP|Bahasa Inggris dari 'sirup'
+JUICE|Bahasa Inggris dari 'jus'
+GIANT|Bahasa Inggris dari 'raksasa'
+DWARF|Bahasa Inggris dari 'kurcaci'
+FAIRY|Bahasa Inggris dari 'peri'
+WITCH|Bahasa Inggris dari 'penyihir'
+GHOST|Bahasa Inggris dari 'hantu'
+DRAGON|Bahasa Inggris dari 'naga'
+HERO|Bahasa Inggris dari 'pahlawan'
+VILLAIN|Bahasa Inggris dari 'penjahat'
+TREASURE|Bahasa Inggris dari 'harta karun'
+PIRATE|Bahasa Inggris dari 'bajak laut'
+CASTLE|Bahasa Inggris dari 'kastil'
+CROWN|Bahasa Inggris dari 'mahkota'
+SWORD|Bahasa Inggris dari 'pedang'
+SHIELD|Bahasa Inggris dari 'perisai'
+ARROW|Bahasa Inggris dari 'panah'
+BOW|Bahasa Inggris dari 'busur'
+SPEAR|Bahasa Inggris dari 'tombak'
+CANNON|Bahasa Inggris dari 'meriam'
+PANDAI|Sinonim (persamaan kata) dari 'pintar'
+CANTIK|Sinonim (persamaan kata) dari 'elok'
+GEMBIRA|Sinonim (persamaan kata) dari 'senang'
+LELAH|Sinonim (persamaan kata) dari 'capai'
+SUKAR|Sinonim (persamaan kata) dari 'sulit'
+GEMPAL|Sinonim (persamaan kata) dari 'gemuk'
+KURUS|Sinonim (persamaan kata) dari 'ceking'
+PEMBERANI|Sinonim (persamaan kata) dari 'gagah'
+BOHONG|Sinonim (persamaan kata) dari 'dusta'
+PAHAM|Sinonim (persamaan kata) dari 'mengerti'
+HEBAT|Sinonim (persamaan kata) dari 'dahsyat'
+RAMAI|Sinonim (persamaan kata) dari 'riuh'
+SEPI|Sinonim (persamaan kata) dari 'sunyi'
+MUNGIL|Sinonim (persamaan kata) dari 'kecil'
+LUCU|Sinonim (persamaan kata) dari 'jenaka'
+BAU|Sinonim (persamaan kata) dari 'busuk'
+HARUM|Sinonim (persamaan kata) dari 'wangi'
+GELAP|Sinonim (persamaan kata) dari 'kelam'
+SERULING|Alat musik tiup dari bambu
+KENDANG|Gendang pengiring gamelan
+REBANA|Gendang kecil pengiring lagu religi
+HARMONIKA|Alat musik tiup kecil di mulut
+PIANIKA|Alat musik tiup bertuts di sekolah
+GITAR|Alat musik berdawai dipetik
+SASANDO|Alat musik petik khas Rote
+KOLINTANG|Alat musik pukul kayu dari Minahasa
+TIFA|Gendang khas Papua dan Maluku
+BADMINTON|Olahraga tepok bulu tangkis
+VOLI|Olahraga bola lewat net dengan tangan
+RENANG|Olahraga di dalam air
+TINJU|Olahraga adu pukul bersarung
+KARATE|Bela diri asal Jepang
+SILAT|Bela diri tradisional Indonesia
+CATUR|Permainan strategi papan 64 kotak
+BILIAR|Olahraga bola dan tongkat di meja
+GOLF|Olahraga memukul bola ke lubang
+PANAHAN|Olahraga menembak dengan busur
+GAWANG|Sasaran gol dalam sepak bola
+PENALTI|Tendangan hukuman dari titik putih
+PIALA|Hadiah juara berbentuk cangkir
+MEDALI|Lencana penghargaan pemenang
+JUARA|Pemenang pertama lomba
+WASIT|Pemimpin jalannya pertandingan
+PELATIH|Pembimbing latihan olahraga
+SERAGAM|Pakaian resmi sekolah/kantor
+JAS|Pakaian resmi berkerah
+KEBAYA|Pakaian tradisional wanita Indonesia
+SARUNG|Kain bawahan pria untuk salat
+SELENDANG|Kain panjang di bahu penari
+MAHKOTA|Hiasan kepala raja
+GELANG|Perhiasan di pergelangan tangan
+KALUNG|Perhiasan di leher
+ANTING|Perhiasan di telinga
+ONE|Bahasa Inggris angka 'satu'
+TWO|Bahasa Inggris angka 'dua'
+THREE|Bahasa Inggris angka 'tiga'
+FOUR|Bahasa Inggris angka 'empat'
+FIVE|Bahasa Inggris angka 'lima'
+SIX|Bahasa Inggris angka 'enam'
+SEVEN|Bahasa Inggris angka 'tujuh'
+EIGHT|Bahasa Inggris angka 'delapan'
+NINE|Bahasa Inggris angka 'sembilan'
+TEN|Bahasa Inggris angka 'sepuluh'
+ELEVEN|Bahasa Inggris angka 'sebelas'
+TWELVE|Bahasa Inggris angka 'dua belas'
+THIRTEEN|Bahasa Inggris angka 'tiga belas'
+TWENTY|Bahasa Inggris angka 'dua puluh'
+HUNDRED|Bahasa Inggris angka 'seratus'
+THOUSAND|Bahasa Inggris angka 'seribu'
+MILLION|Bahasa Inggris angka 'sejuta'
+ZERO|Bahasa Inggris angka 'nol'
+MONDAY|Bahasa Inggris hari Senin
+TUESDAY|Bahasa Inggris hari Selasa
+WEDNESDAY|Bahasa Inggris hari Rabu
+THURSDAY|Bahasa Inggris hari Kamis
+FRIDAY|Bahasa Inggris hari Jumat
+SATURDAY|Bahasa Inggris hari Sabtu
+SUNDAY|Bahasa Inggris hari Minggu
+JANUARY|Bahasa Inggris bulan Januari
+FEBRUARY|Bahasa Inggris bulan Februari
+MARCH|Bahasa Inggris bulan Maret
+MAY|Bahasa Inggris bulan Mei
+JUNE|Bahasa Inggris bulan Juni
+JULY|Bahasa Inggris bulan Juli
+AUGUST|Bahasa Inggris bulan Agustus
+OCTOBER|Bahasa Inggris bulan Oktober
+DECEMBER|Bahasa Inggris bulan Desember
+POLICE|Bahasa Inggris dari 'polisi'
+SOLDIER|Bahasa Inggris dari 'tentara'
+FIREFIGHTER|Bahasa Inggris dari 'pemadam'
+POSTMAN|Bahasa Inggris dari 'tukang pos'
+SAILOR|Bahasa Inggris dari 'pelaut'
+WRITER|Bahasa Inggris dari 'penulis'
+PAINTER|Bahasa Inggris dari 'pelukis'
+SINGER|Bahasa Inggris dari 'penyanyi'
+DANCER|Bahasa Inggris dari 'penari'
+HUNTER|Bahasa Inggris dari 'pemburu'
+MERCHANT|Bahasa Inggris dari 'pedagang'
+BUYER|Bahasa Inggris dari 'pembeli'
+JUDGE|Bahasa Inggris dari 'hakim'
+LAWYER|Bahasa Inggris dari 'pengacara'
+ENGINEER|Bahasa Inggris dari 'insinyur'
+SCIENTIST|Bahasa Inggris dari 'ilmuwan'
+PRESIDENT|Bahasa Inggris dari 'presiden negara'
+PRINCE|Bahasa Inggris dari 'pangeran'
+PRINCESS|Bahasa Inggris dari 'putri'
+KNIGHT|Bahasa Inggris dari 'ksatria'
+WAITER|Bahasa Inggris dari 'pelayan'
+BAKER|Bahasa Inggris dari 'tukang roti'
+BUTCHER|Bahasa Inggris dari 'tukang daging'
+CARPENTER|Bahasa Inggris dari 'tukang kayu'
+PLUMBER|Bahasa Inggris dari 'tukang ledeng'
+MECHANIC|Bahasa Inggris dari 'montir'
+DRIVER|Bahasa Inggris dari 'sopir'
+FACE|Bahasa Inggris dari 'wajah'
+THROAT|Bahasa Inggris dari 'tenggorokan'
+JAW|Bahasa Inggris dari 'rahang'
+PALM|Bahasa Inggris dari 'telapak'
+THUMB|Bahasa Inggris dari 'jempol'
+CALF|Bahasa Inggris dari 'betis'
+THIGH|Bahasa Inggris dari 'paha'
+WAIST|Bahasa Inggris dari 'pinggang'
+HIP|Bahasa Inggris dari 'pinggul'
+GLAD|Bahasa Inggris dari 'gembira'
+TIRED|Bahasa Inggris dari 'letih'
+HUNGRY|Bahasa Inggris dari 'lapar'
+THIRSTY|Bahasa Inggris dari 'haus'
+FULL|Bahasa Inggris dari 'kenyang'
+BUSY|Bahasa Inggris dari 'sibuk'
+BORED|Bahasa Inggris dari 'bosan'
+SHY|Bahasa Inggris dari 'malu'
+PROUD|Bahasa Inggris dari 'bangga'
+JEALOUS|Bahasa Inggris dari 'cemburu'
+ARROGANT|Bahasa Inggris dari 'sombong'
+POLITE|Bahasa Inggris dari 'sopan'
+FRIENDLY|Bahasa Inggris dari 'ramah'
+PATIENT|Bahasa Inggris dari 'sabar'
+CALM|Bahasa Inggris dari 'tenang'
+WISE|Bahasa Inggris dari 'bijak'
+HONEST|Bahasa Inggris dari 'jujur'
+LOYAL|Bahasa Inggris dari 'setia'
+GENEROUS|Bahasa Inggris dari 'murah hati'
+GREEDY|Bahasa Inggris dari 'pelit'
+REAL|Bahasa Inggris dari 'nyata'
+FAKE|Bahasa Inggris dari 'palsu'
+IMPORTANT|Bahasa Inggris dari 'penting'
+DANGEROUS|Bahasa Inggris dari 'berbahaya'
+SAFE|Bahasa Inggris dari 'aman'
+FREE|Bahasa Inggris dari 'gratis'
+EXPENSIVE|Bahasa Inggris dari 'mahal'
+CHEAP|Bahasa Inggris dari 'murah'
+USEFUL|Bahasa Inggris dari 'berguna'
+EMPTY|Bahasa Inggris dari 'kosong'
+WET|Bahasa Inggris dari 'basah'
+DRY|Bahasa Inggris dari 'kering'
+SHARP|Bahasa Inggris dari 'tajam'
+BLUNT|Bahasa Inggris dari 'tumpul'
+SOFT|Bahasa Inggris dari 'lembut'
+SMOOTH|Bahasa Inggris dari 'halus'
+ROUGH|Bahasa Inggris dari 'kasar'
+BUILD|Bahasa Inggris dari 'membangun'
+DESTROY|Bahasa Inggris dari 'menghancurkan'
+REPAIR|Bahasa Inggris dari 'memperbaiki'
+WASH|Bahasa Inggris dari 'mencuci'
+PLANT|Bahasa Inggris dari 'menanam'
+HARVEST|Bahasa Inggris dari 'memanen'
+DRAW|Bahasa Inggris dari 'menggambar'
+CUT|Bahasa Inggris dari 'memotong'
+MEASURE|Bahasa Inggris dari 'mengukur'
+WEIGH|Bahasa Inggris dari 'menimbang'
+COUNT|Bahasa Inggris dari 'menghitung'
+GUARD|Bahasa Inggris dari 'menjaga'
+HELP|Bahasa Inggris dari 'menolong'
+SAVE|Bahasa Inggris dari 'menyelamatkan'
+HIDE|Bahasa Inggris dari 'menyembunyikan'
+FIND|Bahasa Inggris dari 'menemukan'
+LOSE|Bahasa Inggris dari 'kehilangan'
+WIN|Bahasa Inggris dari 'menang'
+GIVE|Bahasa Inggris dari 'memberi'
+RECEIVE|Bahasa Inggris dari 'menerima'
+BORROW|Bahasa Inggris dari 'meminjam'
+RETURN|Bahasa Inggris dari 'mengembalikan'
+SEND|Bahasa Inggris dari 'mengirim'
+BRING|Bahasa Inggris dari 'membawa'
+CLIPPER|Bahasa Inggris dari 'gunting kuku'
+RAZOR|Bahasa Inggris dari 'cukur'
+COMB|Bahasa Inggris dari 'sisir'
+POWDER|Bahasa Inggris dari 'bedak'
+PERFUME|Bahasa Inggris dari 'parfum'
+LIPSTICK|Bahasa Inggris dari 'lipstik'
+GLASSES|Bahasa Inggris dari 'kaca mata'
+WATCH|Bahasa Inggris dari 'jam tangan'
+SUITCASE|Bahasa Inggris dari 'koper'
+BACKPACK|Bahasa Inggris dari 'ransel'
+TICKET|Bahasa Inggris dari 'tiket'
+PASSPORT|Bahasa Inggris dari 'paspor'
+CAMERA|Bahasa Inggris dari 'kamera'
+PHONE|Bahasa Inggris dari 'ponsel'
+COMPUTER|Bahasa Inggris dari 'komputer'
+KEYBOARD|Bahasa Inggris dari 'papan ketik'
+SCREEN|Bahasa Inggris dari 'layar'
+SPEAKER|Bahasa Inggris dari 'pengeras suara'
+HEADPHONE|Bahasa Inggris dari 'penyuara kuping'
+DISK|Bahasa Inggris dari 'cakram'
+FILE|Bahasa Inggris dari 'berkas'
+FOLDER|Bahasa Inggris dari 'map dokumen'
+NETWORK|Bahasa Inggris dari 'jaringan'
+PASSWORD|Bahasa Inggris dari 'sandi'
+EMAIL|Bahasa Inggris dari 'surel'
+WEBSITE|Bahasa Inggris dari 'situs'
+BROWSER|Bahasa Inggris dari 'peramban'
+DOWNLOAD|Bahasa Inggris dari 'unduhan'
+UPLOAD|Bahasa Inggris dari 'unggahan'
+GADGET|Bahasa Inggris dari 'gawai'
+ROCKET|Bahasa Inggris dari 'roket'
+SATELLITE|Bahasa Inggris dari 'satelit buatan'
+COMET|Bahasa Inggris dari 'komet ekor'
+TELESCOPE|Bahasa Inggris dari 'teleskop'
+MICROSCOPE|Bahasa Inggris dari 'mikroskop'
+BATTERY|Bahasa Inggris dari 'baterai kering'
+CABLE|Bahasa Inggris dari 'kabel listrik'
+PLUG|Bahasa Inggris dari 'colokan'
+SWITCH|Bahasa Inggris dari 'sakelar'
+SCREWDRIVER|Bahasa Inggris dari 'obeng'
+WRENCH|Bahasa Inggris dari 'kunci inggris'
+PLIERS|Bahasa Inggris dari 'tang'
+DRILL|Bahasa Inggris dari 'bor'
+SHOVEL|Bahasa Inggris dari 'sekop'
+RAKE|Bahasa Inggris dari 'garu'
+HOSE|Bahasa Inggris dari 'selang'
+FAUCET|Bahasa Inggris dari 'keran'
+PIPE|Bahasa Inggris dari 'pipa air'
+ROOF|Bahasa Inggris dari 'genteng'
+BRICK|Bahasa Inggris dari 'batu bata'
+CEMENT|Bahasa Inggris dari 'semen'
+CONCRETE|Bahasa Inggris dari 'beton'
+FENCE|Bahasa Inggris dari 'pagar besi'
+GATE|Bahasa Inggris dari 'gerbang'
+PADLOCK|Bahasa Inggris dari 'kunci gembok'
+HINGE|Bahasa Inggris dari 'engsel'
+SCREW|Bahasa Inggris dari 'sekrup'
+NUT|Bahasa Inggris dari 'mur'
+BOLT|Bahasa Inggris dari 'baut'
+HILL|Bahasa Inggris dari 'bukit'
+CLIFF|Bahasa Inggris dari 'tebing'
+RAVINE|Bahasa Inggris dari 'jurang'
+SWAMP|Bahasa Inggris dari 'rawa'
+MEADOW|Bahasa Inggris dari 'padang rumput'
+SAVANNA|Bahasa Inggris dari 'sabana rumput'
+JUNGLE|Bahasa Inggris dari 'hutan lebat'
+WILDERNESS|Bahasa Inggris dari 'belantara'
+CANYON|Bahasa Inggris dari 'ngarai'
+GLACIER|Bahasa Inggris dari 'gletser'
+FROST|Bahasa Inggris dari 'embun beku'
+HAIL|Bahasa Inggris dari 'hujan es'
+TYPHOON|Bahasa Inggris dari 'topan'
+TORNADO|Bahasa Inggris dari 'angin puyuh'
+EARTHQUAKE|Bahasa Inggris dari 'gempa bumi'
+ERUPTION|Bahasa Inggris dari 'letusan'
+LANDSLIDE|Bahasa Inggris dari 'longsor'
+HIVE|Bahasa Inggris dari 'sarang lebah'
+WEB|Bahasa Inggris dari 'jaring laba'
+COCOON|Bahasa Inggris dari 'kepompong'
+SCALE|Bahasa Inggris dari 'kulit ular'
+ANTLER|Bahasa Inggris dari 'tanduk rusa'
+TUSK|Bahasa Inggris dari 'gading gajah'
+CLAW|Bahasa Inggris dari 'cakar elang'
+FANG|Bahasa Inggris dari 'taring'
+SNOUT|Bahasa Inggris dari 'moncong'
+TAIL|Bahasa Inggris dari 'ekor kuda'
+THRONE|Bahasa Inggris dari 'takhta'
+SCEPTER|Bahasa Inggris dari 'tongkat kerajaan'
+ROBE|Bahasa Inggris dari 'jubah'
+ARMOR|Bahasa Inggris dari 'baju zirah'
+HELMET|Bahasa Inggris dari 'helm perang'
+SLING|Bahasa Inggris dari 'ketapel'
+SISIR|Punya banyak gigi tapi tak pernah menggigit; perapi rambut
+LUBANG|Makin banyak kau ambil dariku, aku makin besar
+BOTOL|Punya leher tapi tak berkepala; wadah air minummu
+LILIN|Makin lama menyala tubuhku makin pendek; penerang kala mati lampu
+BUNGLON|Reptil yang pandai berganti warna kulit
+BEO|Burung yang bisa menirukan ucapan manusia
+BALON|Makin banyak diisi udara aku makin besar, lalu dor!
+LAYANGAN|Mainan yang terbang tinggi ditarik seutas benang
+SEDOTAN|Batang berlubang untuk menyeruput minuman
+TERMOS|Botol ajaib penjaga air tetap panas atau dingin
+KUNANG|Serangga mungil yang menyala di gelap malam
+CICAK|Reptil kecil perayap dinding, pemburu nyamuk
+KEONG|Siput yang membawa rumahnya ke mana-mana
+BEKICOT|Siput darat besar berlendir
+LIFT|Kotak naik-turun pengantar orang antarlantai
+KUMIS|Rambut yang tumbuh di atas bibir
+JENGGOT|Rambut yang tumbuh di dagu
+JAKUN|Tonjolan yang menonjol di leher pria
+GASING|Mainan yang berputar di atas tanah bila dipilin
+YOYO|Mainan naik-turun di ujung benang
+KELERENG|Bola kaca kecil untuk permainan anak
+PETASAN|Benda kecil yang meletus keras saat dibakar
+PERANGKO|Cap kecil ditempel di surat sebagai bayaran pos
+SENTER|Lampu genggam penerang saat gelap
+GAYUNG|Alat penciduk air saat mandi
+TIMBA|Ember bertali penimba air sumur
+CANGKIR|Wadah kecil bergagang teman si kopi
+NAMPAN|Baki datar pembawa gelas dan piring
+KESET|Alas di depan pintu untuk melap kaki
+GEMBOK|Kunci gantung pengaman pintu pagar
+PERANGKAP|Alat penjebak tikus yang nakal
+KOREK|Pemantik api mungil di saku
+STAPLER|Penjepret kertas dengan kawat kecil
+THROW|Bahasa Inggris dari 'melempar'
+CATCH|Bahasa Inggris dari 'menangkap'
+PUSH|Bahasa Inggris dari 'mendorong'
+PULL|Bahasa Inggris dari 'menarik'
+DROP|Bahasa Inggris dari 'menjatuhkan'
+FOLD|Bahasa Inggris dari 'melipat'
+TEAR|Bahasa Inggris dari 'merobek'
+SEW|Bahasa Inggris dari 'menjahit'
+DIG|Bahasa Inggris dari 'menggali'
+BURY|Bahasa Inggris dari 'mengubur'
+PICK|Bahasa Inggris dari 'memetik'
+SHOUT|Bahasa Inggris dari 'berteriak'
+WHISPER|Bahasa Inggris dari 'berbisik'
+CHEW|Bahasa Inggris dari 'mengunyah'
+SWALLOW|Bahasa Inggris dari 'menelan'
+BLOW|Bahasa Inggris dari 'meniup'
+BREATHE|Bahasa Inggris dari 'bernapas'
+COUGH|Bahasa Inggris dari 'batuk'
+SNEEZE|Bahasa Inggris dari 'bersin'
+YAWN|Bahasa Inggris dari 'menguap'
+SNORE|Bahasa Inggris dari 'mendengkur'
+SWIM|Bahasa Inggris dari 'berenang'
+DIVE|Bahasa Inggris dari 'menyelam'
+CRAWL|Bahasa Inggris dari 'merangkak'
+CLIMB|Bahasa Inggris dari 'memanjat'
+SPIN|Bahasa Inggris dari 'berputar'
+TREMBLE|Bahasa Inggris dari 'gemetar'
+FALL|Bahasa Inggris dari 'jatuh'
+ECHO|Bahasa Inggris dari 'gema'
+FOG|Bahasa Inggris dari 'kabut'
+STEAM|Bahasa Inggris dari 'uap'
+ASH|Bahasa Inggris dari 'abu'
+DUST|Bahasa Inggris dari 'debu'
+MUD|Bahasa Inggris dari 'lumpur'
+GRAVEL|Bahasa Inggris dari 'kerikil'
+CHARCOAL|Bahasa Inggris dari 'arang'
+GASOLINE|Bahasa Inggris dari 'bensin'
+POISON|Bahasa Inggris dari 'racun'
+SPICE|Bahasa Inggris dari 'rempah'
+DAMP|Bahasa Inggris dari 'lembap'
+STIFF|Bahasa Inggris dari 'kaku'
+SLIPPERY|Bahasa Inggris dari 'licin'
+STICKY|Bahasa Inggris dari 'lengket'
+SOLID|Bahasa Inggris dari 'padat'
+FROZEN|Bahasa Inggris dari 'beku'
+RIPE|Bahasa Inggris dari 'matang'
+RAW|Bahasa Inggris dari 'mentah'
+ROTTEN|Bahasa Inggris dari 'busuk'
+FRESH|Bahasa Inggris dari 'segar'
+SOUR|Bahasa Inggris dari 'asam'
+BITTER|Bahasa Inggris dari 'pahit'
+SALTY|Bahasa Inggris dari 'asin'
+SPICY|Bahasa Inggris dari 'pedas'
+SWEET|Bahasa Inggris dari 'manis'
+DARK|Bahasa Inggris dari 'gelap'
+NARROW|Bahasa Inggris dari 'sempit'
+WIDE|Bahasa Inggris dari 'luas'
+STEEP|Bahasa Inggris dari 'curam'
+FLAT|Bahasa Inggris dari 'datar'
+ROUND|Bahasa Inggris dari 'bulat'
+STRAIGHT|Bahasa Inggris dari 'lurus'
+CURVED|Bahasa Inggris dari 'melengkung'
+BRIGHT|Bahasa Inggris dari 'terang'
+DULL|Bahasa Inggris dari 'kusam'
+SHINY|Bahasa Inggris dari 'berkilau'
+BLURRY|Bahasa Inggris dari 'buram'
+NOISY|Bahasa Inggris dari 'bising'
+SILENT|Bahasa Inggris dari 'sunyi'
+WARM|Bahasa Inggris dari 'hangat'
+COOL|Bahasa Inggris dari 'sejuk'
+HOTEL|Tempat menginap berbayar bagi pelancong
+MUSEUM|Gedung penyimpan benda bersejarah untuk dipamerkan
+PIANO|Alat musik bertuts hitam dan putih
+SALAD|Hidangan sayuran segar bercampur saus
+PILOT|Orang yang menerbangkan pesawat
+PLANET|Benda langit besar yang mengelilingi matahari
+BUS|Kendaraan umum besar pengangkut banyak penumpang
+OVEN|Alat pemanggang roti dan kue
+TUNDRA|Padang beku tanpa pohon di daerah kutub
+APRIL|Bulan keempat dalam setahun
+SEPTEMBER|Bulan kesembilan dalam setahun
+NOVEMBER|Bulan kesebelas dalam setahun
+MANGGIS|Buah ungu berdaging putih, dijuluki ratu buah
+DURIAN|Buah berduri tajam beraroma menyengat, raja buah
+RAMBUTAN|Buah merah berambut, manis berair
+SALAK|Buah bersisik cokelat rasanya sepat-manis
+KELENGKENG|Buah kecil bening manis berbiji hitam
+SIRSAK|Buah berduri lunak, daging putih asam-manis
+ALPUKAT|Buah hijau berdaging lembut dan berlemak
+MARKISA|Buah asam berbiji banyak, sering dibuat sirup
+KEDONDONG|Buah hijau renyah berbiji berserat untuk rujak
+DUKU|Buah bulat kecil kekuningan manis berkelompok
+JAMBU|Buah berdaging renyah, ada yang merah dan putih
+PEPAYA|Buah oranye panjang kaya vitamin A
+NANGKA|Buah besar berduri lunak beraroma manis
+PEMPEK|Makanan ikan khas Palembang bersaus cuko
+GUDEG|Masakan nangka muda manis khas Yogyakarta
+RAWON|Sup daging berkuah hitam berbumbu kluwek
+KLEPON|Kue bola hijau berisi gula merah cair
+LONTONG|Nasi padat yang dibungkus daun pisang
+KETUPAT|Nasi dalam anyaman daun kelapa khas Lebaran
+GETUK|Camilan manis dari singkong yang ditumbuk
+SERABI|Kue bundar dari tepung beras bersantan
+MARTABAK|Kue tebal manis atau telur gurih yang dilipat
+PECEL|Sayuran rebus bersaus kacang khas Jawa
+KOLAK|Hidangan manis pisang berkuah santan saat puasa
+CENDOL|Minuman hijau kenyal bersantan dan gula merah
+BANDREK|Minuman jahe hangat khas Sunda
+BAJIGUR|Minuman santan-jahe hangat khas Sunda
+WEDANG|Minuman rempah tradisional yang disajikan hangat
+RUSA|Hewan berlari cepat bertanduk bercabang
+KERBAU|Hewan pembajak sawah bertanduk melengkung
+BADAK|Hewan besar berkulit tebal dan bercula
+TAPIR|Mamalia berbelalai pendek berwarna hitam-putih
+KUKANG|Primata kecil bergerak lambat, aktif malam
+MUSANG|Hewan malam pemakan buah, terkait kopi luwak
+SIGUNG|Hewan yang menyemprot bau busuk saat terancam
+WALABI|Kerabat kanguru bertubuh lebih kecil
+MEERKAT|Mamalia gurun yang berdiri mengawasi bahaya

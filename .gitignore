@@ -1,0 +1,26 @@
+# Kredensial & rahasia — JANGAN pernah di-commit
+.env
+*.session
+*.session-journal
+
+# Database & data runtime
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.pkl
+sessions.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

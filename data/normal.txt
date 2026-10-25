@@ -1,0 +1,451 @@
+# Bank soal TTS — tier normal (449 soal)
+# Format: JAWABAN|petunjuk
+JAKARTA|Ibu kota negara Indonesia
+KUALALUMPUR|Ibu kota negara Malaysia
+BANGKOK|Ibu kota negara Thailand
+MANILA|Ibu kota negara Filipina
+HANOI|Ibu kota negara Vietnam
+TOKYO|Ibu kota negara Jepang
+SEOUL|Ibu kota negara Korea Selatan
+BEIJING|Ibu kota negara China
+NEWDELHI|Ibu kota negara India
+LONDON|Ibu kota negara Inggris
+PARIS|Ibu kota negara Prancis
+BERLIN|Ibu kota negara Jerman
+ROMA|Ibu kota negara Italia
+MADRID|Ibu kota negara Spanyol
+LISBON|Ibu kota negara Portugal
+AMSTERDAM|Ibu kota negara Belanda
+MOSKOW|Ibu kota negara Rusia
+KAIRO|Ibu kota negara Mesir
+CANBERRA|Ibu kota negara Australia
+OTTAWA|Ibu kota negara Kanada
+BRASILIA|Ibu kota negara Brasil
+BUENOSAIRES|Ibu kota negara Argentina
+ATHENA|Ibu kota negara Yunani
+ANKARA|Ibu kota negara Turki
+TEHERAN|Ibu kota negara Iran
+BAGHDAD|Ibu kota negara Irak
+RIYADH|Ibu kota negara Arab Saudi
+WINA|Ibu kota negara Austria
+BERN|Ibu kota negara Swiss
+STOCKHOLM|Ibu kota negara Swedia
+OSLO|Ibu kota negara Norwegia
+HELSINKI|Ibu kota negara Finlandia
+WARSAWA|Ibu kota negara Polandia
+BUDAPEST|Ibu kota negara Hongaria
+DUBLIN|Ibu kota negara Irlandia
+HAVANA|Ibu kota negara Kuba
+MEXICOCITY|Ibu kota negara Meksiko
+LIMA|Ibu kota negara Peru
+SANTIAGO|Ibu kota negara Chili
+NAIROBI|Ibu kota negara Kenya
+ABUJA|Ibu kota negara Nigeria
+PRETORIA|Ibu kota negara Afrika Selatan
+RABAT|Ibu kota negara Maroko
+ISLAMABAD|Ibu kota negara Pakistan
+DHAKA|Ibu kota negara Bangladesh
+NAYPYIDAW|Ibu kota negara Myanmar
+PHNOMPENH|Ibu kota negara Kamboja
+VIENTIANE|Ibu kota negara Laos
+ULANBATOR|Ibu kota negara Mongolia
+PYONGYANG|Ibu kota negara Korea Utara
+RUPIAH|Mata uang negara Indonesia
+YEN|Mata uang negara Jepang
+DOLAR|Mata uang negara Amerika Serikat
+POUNDSTERLING|Mata uang negara Inggris
+EURO|Mata uang negara Uni Eropa
+WON|Mata uang negara Korea
+BAHT|Mata uang negara Thailand
+RINGGIT|Mata uang negara Malaysia
+RUPEE|Mata uang negara India
+RIYAL|Mata uang negara Arab Saudi
+YUAN|Mata uang negara China
+RUBEL|Mata uang negara Rusia
+DONG|Mata uang negara Vietnam
+PESO|Mata uang negara Filipina
+TAKA|Mata uang negara Bangladesh
+RAND|Mata uang negara Afrika Selatan
+LIRA|Mata uang negara Turki
+SYEKEL|Mata uang negara Israel
+BANDUNG|Ibu kota provinsi Jawa Barat
+SEMARANG|Ibu kota provinsi Jawa Tengah
+SURABAYA|Ibu kota provinsi Jawa Timur
+SERANG|Ibu kota provinsi Banten
+DENPASAR|Ibu kota provinsi Bali
+MEDAN|Ibu kota provinsi Sumatra Utara
+PADANG|Ibu kota provinsi Sumatra Barat
+PEKANBARU|Ibu kota provinsi Riau
+BANDARLAMPUNG|Ibu kota provinsi Lampung
+BANDAACEH|Ibu kota provinsi Aceh
+PONTIANAK|Ibu kota provinsi Kalimantan Barat
+SAMARINDA|Ibu kota provinsi Kalimantan Timur
+BANJARMASIN|Ibu kota provinsi Kalimantan Selatan
+PALANGKARAYA|Ibu kota provinsi Kalimantan Tengah
+MAKASSAR|Ibu kota provinsi Sulawesi Selatan
+MANADO|Ibu kota provinsi Sulawesi Utara
+PALU|Ibu kota provinsi Sulawesi Tengah
+KENDARI|Ibu kota provinsi Sulawesi Tenggara
+JAYAPURA|Ibu kota provinsi Papua
+AMBON|Ibu kota provinsi Maluku
+MATARAM|Ibu kota provinsi Nusa Tenggara Barat
+KUPANG|Ibu kota provinsi Nusa Tenggara Timur
+GARUDA|Lambang negara Indonesia
+PANCASILA|Dasar negara Indonesia
+PROKLAMASI|Pernyataan kemerdekaan 1945
+PRESIDEN|Kepala negara republik
+MENTERI|Pembantu presiden urus bidang tertentu
+PEMILU|Pesta demokrasi memilih pemimpin
+KOMPAS|Alat penunjuk arah mata angin
+TEROPONG|Alat melihat benda jauh
+MIKROSKOP|Alat melihat benda sangat kecil
+TERMOMETER|Alat pengukur suhu
+BAROMETER|Alat pengukur tekanan udara
+MAGNET|Benda penarik logam besi
+BATERAI|Sumber listrik portabel
+TSUNAMI|Gelombang laut besar akibat gempa
+OKSIGEN|Gas untuk bernapas
+VITAMIN|Zat gizi penjaga daya tahan
+PROTEIN|Zat pembangun tubuh dari lauk
+GINJAL|Organ penyaring darah
+VAKSIN|Zat untuk kekebalan penyakit
+GALAKSI|Kumpulan miliaran bintang
+KOMET|Bintang berekor di langit
+METEOR|Bintang jatuh terbakar di atmosfer
+SATELIT|Benda yang mengelilingi planet
+GRAVITASI|Gaya tarik bumi
+GAMELAN|Alat musik tradisional Jawa
+ANGKLUNG|Alat musik bambu dari Sunda
+BATIK|Kain khas Indonesia bermotif
+WAYANG|Pertunjukan boneka kulit
+KOMODO|Kadal raksasa dari Nusa Tenggara
+ORANGUTAN|Kera besar dari Kalimantan
+STADION|Tempat pertandingan olahraga besar
+MARATON|Lomba lari jarak sangat jauh
+EKONOMI|Ilmu tentang uang dan kebutuhan
+KOPERASI|Badan usaha bersama anggota
+INFLASI|Kenaikan harga barang secara umum
+BIOLOGI|Ilmu tentang makhluk hidup
+KIMIA|Ilmu tentang zat dan reaksinya
+FISIKA|Ilmu tentang gaya dan energi
+SASTRA|Karya tulis bernilai seni
+PANTUN|Puisi lama empat baris bersajak
+KAMUS|Buku daftar kata dan artinya
+ATLAS|Buku kumpulan peta
+MERKURIUS|Planet terdekat dari matahari
+VENUS|Planet terpanas di tata surya
+YUPITER|Planet terbesar di tata surya
+SATURNUS|Planet bercincin indah
+NEPTUNUS|Planet terjauh dari matahari
+KATULISTIWA|Garis khayal pembagi bumi utara-selatan
+MERIDIAN|Garis bujur pada peta
+EQUATOR|Istilah Inggris garis khatulistiwa
+KARTOGRAFI|Ilmu pembuatan peta
+DEMOGRAFI|Ilmu tentang kependudukan
+MIGRASI|Perpindahan penduduk antarwilayah
+TRANSMIGRASI|Pindah antarpulau di Indonesia
+KOLONIALISME|Paham penjajahan bangsa lain
+NASIONALISME|Paham cinta tanah air
+REVOLUSI|Perubahan besar dan cepat
+REFORMASI|Perubahan menuju perbaikan sistem
+KABINET|Dewan para menteri
+PARLEMEN|Lembaga perwakilan rakyat
+MONARKI|Pemerintahan oleh raja
+REPUBLIK|Negara dipimpin presiden
+FEDERASI|Gabungan beberapa negara bagian
+EMBARGO|Larangan perdagangan suatu negara
+SUBSIDI|Bantuan pemerintah menekan harga
+PAJAK|Iuran wajib rakyat ke negara
+RETRIBUSI|Pungutan atas jasa pemerintah
+EKSPOR|Menjual barang ke luar negeri
+IMPOR|Membeli barang dari luar negeri
+KREDIT|Pinjaman yang dibayar bertahap
+DEBIT|Pengurangan saldo rekening
+SAHAM|Bukti kepemilikan perusahaan
+OBLIGASI|Surat utang berbunga
+KOMODITAS|Barang dagangan pokok
+PRODUSEN|Pihak yang menghasilkan barang
+KONSUMEN|Pihak yang memakai barang
+DISTRIBUSI|Penyaluran barang ke konsumen
+KATROL|Roda beralur pengangkat beban
+PENGUNGKIT|Tuas untuk mengangkat beban
+BIDANG|Permukaan miring pengurang gaya
+DINAMO|Pengubah gerak jadi listrik
+TURBIN|Roda penggerak pembangkit tenaga
+GENERATOR|Pembangkit tenaga listrik
+TRANSFORMATOR|Pengubah tegangan listrik
+KAPILER|Pembuluh darah terkecil
+ARTERI|Pembuluh pembawa darah dari jantung
+VENA|Pembuluh pembawa darah ke jantung
+INDONESIA|Negara yang beribu kota Jakarta
+JEPANG|Negara yang beribu kota Tokyo
+PRANCIS|Negara yang beribu kota Paris
+JERMAN|Negara yang beribu kota Berlin
+ITALIA|Negara yang beribu kota Roma
+SPANYOL|Negara yang beribu kota Madrid
+INGGRIS|Negara yang beribu kota London
+RUSIA|Negara yang beribu kota Moskow
+MESIR|Negara yang beribu kota Kairo
+THAILAND|Negara yang beribu kota Bangkok
+VIETNAM|Negara yang beribu kota Hanoi
+FILIPINA|Negara yang beribu kota Manila
+IRAN|Negara yang beribu kota Teheran
+IRAK|Negara yang beribu kota Baghdad
+TURKI|Negara yang beribu kota Ankara
+YUNANI|Negara yang beribu kota Athena
+PORTUGAL|Negara yang beribu kota Lisbon
+AUSTRIA|Negara yang beribu kota Wina
+SWISS|Negara yang beribu kota Bern
+NORWEGIA|Negara yang beribu kota Oslo
+SWEDIA|Negara yang beribu kota Stockholm
+FINLANDIA|Negara yang beribu kota Helsinki
+POLANDIA|Negara yang beribu kota Warsawa
+IRLANDIA|Negara yang beribu kota Dublin
+KUBA|Negara yang beribu kota Havana
+PERU|Negara yang beribu kota Lima
+CHILI|Negara yang beribu kota Santiago
+KENYA|Negara yang beribu kota Nairobi
+MAROKO|Negara yang beribu kota Rabat
+PAKISTAN|Negara yang beribu kota Islamabad
+KOREA|Negara yang beribu kota Seoul
+CHINA|Negara yang beribu kota Beijing
+AUSTRALIA|Negara yang beribu kota Canberra
+KATODA|Elektrode kutub negatif
+ANODA|Elektrode kutub positif
+ISOLATOR|Bahan penghambat listrik/panas
+KONDUKTOR|Bahan penghantar listrik/panas
+SEKERING|Pengaman arus listrik berlebih
+SAKELAR|Alat pemutus dan penyambung listrik
+KABEL|Penghantar listrik berselubung
+ANTENA|Penangkap gelombang sinyal
+SONAR|Pendeteksi objek dengan gelombang suara
+RADAR|Pendeteksi objek dengan gelombang radio
+LASER|Berkas cahaya terfokus kuat
+PRISMA|Kaca pengurai cahaya menjadi warna
+LENSA|Kaca pengumpul atau penyebar cahaya
+CERMIN|Benda pemantul bayangan
+FOKUS|Titik pertemuan berkas cahaya
+KUTUB|Ujung utara atau selatan bumi
+TROPIS|Iklim panas di sekitar khatulistiwa
+SUBTROPIS|Iklim antara tropis dan sedang
+DELTA|Endapan di muara sungai
+TELUK|Laut yang menjorok ke daratan
+SELAT|Laut sempit antara dua pulau
+SEMENANJUNG|Daratan menjorok ke laut
+TANJUNG|Ujung daratan yang menjorok ke laut
+ARKIPELAGO|Gugusan kepulauan
+KALDERA|Kawah besar bekas letusan
+LAHAR|Lumpur panas letusan gunung
+GEISER|Semburan air panas dari tanah
+FOSIL|Sisa makhluk purba membatu
+EVEREST|Gunung tertinggi di dunia
+PASIFIK|Samudra terluas di dunia
+ATLANTIK|Samudra terluas kedua di dunia
+HINDIA|Samudra di sebelah selatan Asia
+ARKTIK|Samudra di kutub utara
+ASIA|Benua terluas di dunia
+EROPA|Benua tempat Prancis dan Jerman
+AFRIKA|Benua tempat Gurun Sahara
+ANTARTIKA|Benua es di kutub selatan
+SAHARA|Gurun pasir terluas di dunia
+VATIKAN|Negara terkecil di dunia
+HIMALAYA|Pegunungan tertinggi di dunia
+AMAZON|Hutan hujan terluas di dunia
+GREENLAND|Pulau terbesar di dunia
+BOROBUDUR|Candi Buddha terbesar di Indonesia
+PRAMBANAN|Candi Hindu terbesar di Indonesia
+KRAKATAU|Gunung api terkenal di Selat Sunda
+MERAPI|Gunung api paling aktif di Jawa
+TOBA|Danau vulkanik terbesar di Indonesia
+KAPUAS|Sungai terpanjang di Indonesia
+PUNCAKJAYA|Puncak tertinggi di Indonesia
+ARIES|Zodiak berlambang domba jantan
+TAURUS|Zodiak berlambang banteng
+GEMINI|Zodiak berlambang si kembar
+CANCER|Zodiak berlambang kepiting
+LEO|Zodiak berlambang singa
+VIRGO|Zodiak berlambang sang perawan
+LIBRA|Zodiak berlambang timbangan
+SCORPIO|Zodiak berlambang kalajengking
+SAGITARIUS|Zodiak berlambang pemanah
+CAPRICORN|Zodiak berlambang kambing laut
+AQUARIUS|Zodiak berlambang pembawa air
+PISCES|Zodiak berlambang ikan
+TUNIS|Ibu kota negara Tunisia
+TRIPOLI|Ibu kota negara Libya
+AMMAN|Ibu kota negara Yordania
+BEIRUT|Ibu kota negara Lebanon
+DOHA|Ibu kota negara Qatar
+KABUL|Ibu kota negara Afghanistan
+BAKU|Ibu kota negara Azerbaijan
+MINSK|Ibu kota negara Belarus
+SOFIA|Ibu kota negara Bulgaria
+ZAGREB|Ibu kota negara Kroasia
+RIGA|Ibu kota negara Latvia
+VILNIUS|Ibu kota negara Lituania
+TALLINN|Ibu kota negara Estonia
+KOLOMBO|Ibu kota negara Sri Lanka
+KATHMANDU|Ibu kota negara Nepal
+PRAHA|Ibu kota negara Ceko
+BUKAREST|Ibu kota negara Rumania
+BEOGRAD|Ibu kota negara Serbia
+TBILISI|Ibu kota negara Georgia
+YEREVAN|Ibu kota negara Armenia
+FOTOGRAFI|Seni membuat gambar dengan kamera
+SINEMATOGRAFI|Seni pembuatan film
+KOREOGRAFI|Seni menyusun gerak tari
+KALIGRAFI|Seni menulis huruf indah
+ARSITEKTUR|Seni merancang bangunan
+MOZAIK|Seni tempel kepingan warna-warni
+PAHATAN|Seni ukir tiga dimensi
+KERAMIK|Kerajinan dari tanah liat dibakar
+ANYAMAN|Kerajinan menjalin bambu/rotan
+TENUN|Kain hasil menjalin benang
+SULAM|Hiasan benang pada kain
+UKIRAN|Hiasan pahat pada kayu
+PANTOMIM|Seni peran tanpa suara
+OPERA|Drama musik dengan nyanyian
+ORKESTRA|Kelompok besar pemain musik
+DIRIGEN|Pemimpin orkestra
+MELODI|Rangkaian nada lagu
+HARMONI|Perpaduan nada yang selaras
+RITME|Pola ketukan dalam musik
+TEMPO|Cepat lambatnya lagu
+OKTAF|Rentang delapan nada
+PARTITUR|Lembar notasi musik
+PROSA|Karangan bebas tak terikat rima
+PROLOG|Kata pembuka sebuah cerita
+EPILOG|Kata penutup sebuah cerita
+SINOPSIS|Ringkasan isi cerita
+PROTAGONIS|Tokoh utama dalam cerita
+ANTAGONIS|Tokoh penentang dalam cerita
+ALEGORI|Cerita kiasan bermakna tersirat
+FABEL|Cerita dengan tokoh binatang
+STETOSKOP|Alat dokter untuk mendengar detak jantung
+MERCUSUAR|Menara bercahaya penunjuk jalan kapal di malam gelap
+PERISKOP|Teropong kapal selam untuk mengintip permukaan
+KALEIDOSKOP|Teropong mainan berisi pola warna simetris
+PARASUT|Payung raksasa penyelamat penerjun dari langit
+PENDULUM|Bandul ayun penjaga irama jam tua
+PLATIPUS|Mamalia aneh berparuh bebek yang bertelur
+KOALA|Mamalia berkantung pemalas pelahap daun eukaliptus
+PANDA|Beruang hitam-putih pemakan bambu dari China
+FLAMINGO|Burung merah muda yang berdiri dengan satu kaki
+PIRANHA|Ikan bergigi tajam pemangsa dari Sungai Amazon
+ANAKONDA|Ular pembelit raksasa penghuni rawa Amazon
+TARANTULA|Laba-laba besar berbulu yang menyeramkan
+CENDERAWASIH|Burung surga nan cantik dari tanah Papua
+KASUARI|Burung besar tak bisa terbang dari Papua
+AKSOLOTL|Salamander yang bisa menumbuhkan kembali anggota tubuh
+TRENGGILING|Mamalia bersisik yang menggulung seperti bola
+KOLIBRI|Burung mungil yang bisa terbang mundur
+BELALANG|Serangga hijau pelompat jauh
+ALMANAK|Buku penanggalan lengkap dengan ramalan cuaca
+ENSIKLOPEDIA|Buku himpunan pengetahuan dari A sampai Z
+TESAURUS|Buku kumpulan padanan dan sinonim kata
+BIOGRAFI|Kisah hidup seseorang yang ditulis orang lain
+AUTOBIOGRAFI|Kisah hidup yang ditulis oleh dirinya sendiri
+KOMIK|Cerita bergambar berpanel-panel
+NUMISMATIK|Hobi mengoleksi mata uang kuno
+FILATELI|Hobi mengoleksi perangko
+SAMAN|Tari seribu tangan dari Aceh
+KECAK|Tari api penuh seruan 'cak' dari Bali
+PENDET|Tari penyambutan tamu dari Bali
+LEGONG|Tari klasik nan anggun dari Bali
+JAIPONG|Tari enerjik khas Jawa Barat
+SERIMPI|Tari halus keraton Jawa
+GAMBYONG|Tari penyambutan dari Jawa Tengah
+REOG|Kesenian topeng singa raksasa dari Ponorogo
+REMO|Tari penyambutan khas Jawa Timur
+TORTOR|Tari khas suku Batak
+ZAPIN|Tari pergaulan khas Melayu
+CAKALELE|Tari perang dari Maluku
+MAENGKET|Tari syukur panen dari Minahasa
+YOSPAN|Tari pergaulan riang dari Papua
+KERIS|Senjata tikam khas Jawa yang berlekuk
+RENCONG|Senjata tradisional kebanggaan Aceh
+MANDAU|Parang khas suku Dayak Kalimantan
+CELURIT|Senjata sabit khas Madura
+KUJANG|Senjata pusaka khas Sunda
+BADIK|Senjata tikam khas Bugis-Makassar
+GADANG|Rumah adat Minang beratap tanduk kerbau
+JOGLO|Rumah adat Jawa dengan atap tumpang
+TONGKONAN|Rumah adat Toraja beratap seperti perahu
+HONAI|Rumah adat Papua berbentuk jamur
+LIMAS|Rumah adat khas Sumatra Selatan
+SALUANG|Alat musik tiup bambu dari Minangkabau
+SERUNAI|Alat musik tiup tradisional bersuara melengking
+REBAB|Alat musik gesek tradisional berdawai dua
+KECAPI|Alat musik petik lembut khas Sunda
+BONANG|Deretan gong kecil dalam gamelan
+ULOS|Kain tenun sakral khas Batak
+SONGKET|Kain tenun bertabur benang emas
+PECI|Penutup kepala hitam khas pria Indonesia
+BLANGKON|Penutup kepala khas pria Jawa
+WASHINGTON|Ibu kota negara Amerika Serikat
+WELLINGTON|Ibu kota negara Selandia Baru
+BOGOTA|Ibu kota negara Kolombia
+CARACAS|Ibu kota negara Venezuela
+QUITO|Ibu kota negara Ekuador
+ASUNCION|Ibu kota negara Paraguay
+MONTEVIDEO|Ibu kota negara Uruguay
+DAMASKUS|Ibu kota negara Suriah
+BRUSSEL|Ibu kota negara Belgia
+KOPENHAGEN|Ibu kota negara Denmark
+REYKJAVIK|Ibu kota negara Islandia
+THIMPHU|Ibu kota negara Bhutan
+KIEV|Ibu kota negara Ukraina
+SANA|Ibu kota negara Yaman
+MUSKAT|Ibu kota negara Oman
+KHARTUM|Ibu kota negara Sudan
+ACCRA|Ibu kota negara Ghana
+DAKAR|Ibu kota negara Senegal
+LUANDA|Ibu kota negara Angola
+HARARE|Ibu kota negara Zimbabwe
+ZEUS|Raja para dewa dalam mitologi Yunani
+HERA|Ratu para dewa Yunani, istri Zeus
+POSEIDON|Dewa penguasa lautan Yunani
+HADES|Dewa penguasa dunia bawah Yunani
+ARES|Dewa perang dalam mitologi Yunani
+APOLLO|Dewa matahari, musik, dan panahan
+ARTEMIS|Dewi perburuan dan bulan Yunani
+APHRODITE|Dewi cinta dan kecantikan Yunani
+HERMES|Dewa utusan berkaki sayap
+DEMETER|Dewi panen dan kesuburan Yunani
+MARS|Dewa perang dalam mitologi Romawi
+MEDUSA|Monster wanita berambut ular
+MINOTAUR|Monster berkepala banteng bertubuh manusia
+PEGASUS|Kuda bersayap dalam mitologi Yunani
+CENTAUR|Makhluk separuh manusia separuh kuda
+CYCLOPS|Raksasa bermata satu
+HYDRA|Ular raksasa berkepala banyak
+SPHINX|Makhluk berkepala manusia bertubuh singa
+SINGAPURA|Negara-kota terkecil di Asia Tenggara
+YOGYAKARTA|Kota pelajar berjuluk, lokasi Keraton dan Malioboro
+KUWAIT|Negara kaya minyak kecil di tepi Teluk Persia
+BENGKULU|Provinsi di pesisir barat daya Pulau Sumatra
+JAMBI|Provinsi Sumatra yang dilintasi Sungai Batanghari
+GORONTALO|Provinsi kecil di leher Pulau Sulawesi
+HARPA|Alat musik petik besar berbentuk segitiga
+AKORDEON|Alat musik tekan yang dipompa dengan tangan
+SAKSOFON|Alat musik tiup logam melengkung khas jazz
+TROMBON|Alat musik tiup logam berpipa geser
+MANDOLIN|Alat musik petik kecil berdawai ganda
+BANJO|Alat musik petik bertubuh bundar khas country
+BALET|Tari klasik Eropa dengan gerak jinjit anggun
+FLAMENCO|Tari dan musik penuh hentakan khas Spanyol
+TANGO|Tari berpasangan penuh gairah asal Argentina
+SALSA|Tari berpasangan energik asal Amerika Latin
+SAMBA|Tari karnaval yang riang khas Brasil
+GULAT|Olahraga bela diri saling membanting
+ANGGAR|Olahraga adu pedang berpelindung
+SELANCAR|Olahraga meluncur di atas ombak
+KRIKET|Olahraga bola dan tongkat khas Inggris-India
+RUGBI|Olahraga bola lonjong penuh tabrakan
+HOKI|Olahraga bola kecil dengan tongkat bengkok
+BISBOL|Olahraga pukul bola dan lari antar-base
+KARTINI|Pahlawan pelopor emansipasi wanita Indonesia
+DIPONEGORO|Pangeran pemimpin Perang Jawa melawan Belanda
+PATTIMURA|Pahlawan dari Maluku melawan penjajah
+HAYAMWURUK|Raja terbesar Kerajaan Majapahit
+GAJAHMADA|Mahapatih Majapahit pengucap Sumpah Palapa

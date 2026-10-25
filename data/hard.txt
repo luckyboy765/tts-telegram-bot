@@ -1,0 +1,268 @@
+# Bank soal TTS — tier hard (266 soal)
+# Format: JAWABAN|petunjuk
+FOTOSINTESIS|Proses tumbuhan membuat makanan
+KLOROFIL|Zat hijau daun
+EKOSISTEM|Hubungan makhluk hidup dan lingkungan
+SIMBIOSIS|Hubungan timbal balik dua makhluk
+METAMORFOSIS|Perubahan bentuk hewan bertahap
+FERMENTASI|Peragian menghasilkan zat baru
+KONDENSASI|Perubahan gas menjadi cair
+EVAPORASI|Penguapan air menjadi uap
+ENZIM|Katalis biologis dalam tubuh
+KROMOSOM|Pembawa sifat keturunan
+GENETIKA|Ilmu tentang pewarisan sifat
+EVOLUSI|Perubahan makhluk hidup bertahap lama
+ARKEOLOGI|Ilmu tentang peninggalan kuno
+ASTRONOMI|Ilmu tentang benda langit
+NEBULA|Awan gas dan debu antarbintang
+SUPERNOVA|Ledakan bintang raksasa
+ASTEROID|Batuan kecil mengorbit matahari
+ATMOSFER|Lapisan udara pembungkus bumi
+LITOSFER|Lapisan batuan kulit bumi
+KHATULISTIWA|Garis lintang nol derajat
+MONSUN|Angin musiman pembawa hujan
+MINERAL|Bahan tambang dari dalam bumi
+ELEKTRON|Partikel bermuatan negatif
+PROTON|Partikel bermuatan positif inti atom
+NEUTRON|Partikel netral dalam inti atom
+MOLEKUL|Gabungan dua atom atau lebih
+SENYAWA|Zat gabungan beberapa unsur
+OKSIDASI|Reaksi pengikatan oksigen
+KOROSI|Perkaratan logam
+SPEKTRUM|Uraian cahaya menjadi warna
+FREKUENSI|Jumlah getaran per detik
+RESONANSI|Ikut bergetar karena frekuensi sama
+REFRAKSI|Pembiasan cahaya
+KAPASITOR|Komponen penyimpan muatan listrik
+RESISTOR|Komponen penghambat arus listrik
+ALGORITMA|Langkah logis pemecah masalah
+ENKRIPSI|Penyandian data agar aman
+DEMOKRASI|Pemerintahan dari rakyat
+KONSTITUSI|Hukum dasar sebuah negara
+DIPLOMASI|Hubungan resmi antarnegara
+MONOPOLI|Penguasaan pasar oleh satu pihak
+HIPOTESIS|Dugaan sementara sebuah penelitian
+METAFORA|Kiasan tanpa kata pembanding
+PSIKOLOGI|Ilmu tentang jiwa dan perilaku
+SOSIOLOGI|Ilmu tentang masyarakat
+URBANISASI|Perpindahan desa ke kota
+HIDROGEN|Unsur kimia berlambang H
+HELIUM|Unsur kimia berlambang He
+LITIUM|Unsur kimia berlambang Li
+KARBON|Unsur kimia berlambang C
+NITROGEN|Unsur kimia berlambang N
+FLUOR|Unsur kimia berlambang F
+NATRIUM|Unsur kimia berlambang Na
+MAGNESIUM|Unsur kimia berlambang Mg
+ALUMINIUM|Unsur kimia berlambang Al
+SILIKON|Unsur kimia berlambang Si
+FOSFOR|Unsur kimia berlambang P
+BELERANG|Unsur kimia berlambang S
+KLORIN|Unsur kimia berlambang Cl
+KALIUM|Unsur kimia berlambang K
+KALSIUM|Unsur kimia berlambang Ca
+BESI|Unsur kimia berlambang Fe
+TEMBAGA|Unsur kimia berlambang Cu
+SENG|Unsur kimia berlambang Zn
+PERAK|Unsur kimia berlambang Ag
+EMAS|Unsur kimia berlambang Au
+RAKSA|Unsur kimia berlambang Hg
+TIMBAL|Unsur kimia berlambang Pb
+URANIUM|Unsur kimia berlambang U
+DIFRAKSI|Pelenturan gelombang
+INTERFERENSI|Perpaduan dua gelombang
+AMPLITUDO|Simpangan terjauh getaran
+VOLTASE|Beda potensial listrik
+AMPERE|Satuan kuat arus listrik
+WATT|Satuan daya listrik
+JOULE|Satuan energi dan usaha
+NEWTON|Satuan gaya dalam fisika (lambang N)
+PASCAL|Satuan tekanan
+KALORI|Satuan energi makanan
+MASSA|Ukuran jumlah materi benda
+VOLUME|Ukuran ruang yang ditempati benda
+DENSITAS|Massa per satuan volume
+INERSIA|Kecenderungan benda mempertahankan gerak
+MOMENTUM|Hasil kali massa dan kecepatan
+PROTOZOA|Hewan bersel satu
+FUNGI|Kelompok jamur
+BAKTERI|Makhluk bersel satu sangat kecil
+VIRUS|Mikroba penyebab penyakit menular
+PLASMA|Wujud zat keempat bersuhu tinggi
+ANTIBODI|Zat kekebalan pelawan kuman
+ANTIGEN|Zat pemicu respon imun
+HORMON|Zat pengatur fungsi tubuh
+INSULIN|Hormon pengatur gula darah
+ADRENALIN|Hormon pemicu semangat/takut
+SINTESIS|Penggabungan menjadi satu kesatuan
+ANALISIS|Penguraian menjadi bagian-bagian
+KATALIS|Zat yang mempercepat reaksi kimia
+LARUTAN|Campuran homogen zat terlarut
+SUSPENSI|Campuran keruh yang mengendap
+GEOMETRI|Cabang matematika tentang bangun
+ALJABAR|Cabang matematika dengan simbol/variabel
+TRIGONOMETRI|Ilmu ukur sudut segitiga
+STATISTIKA|Ilmu pengumpulan dan analisis data
+LOGARITMA|Kebalikan dari perpangkatan
+INTEGRAL|Operasi kebalikan turunan
+DIAMETER|Garis tengah lingkaran
+RADIUS|Jari-jari lingkaran
+HIPOTENUSA|Sisi miring segitiga siku-siku
+PARABOLA|Kurva berbentuk lengkung simetris
+VEKTOR|Besaran berarah dan bernilai
+SKALAR|Besaran yang hanya bernilai
+KONSTANTA|Nilai tetap dalam persamaan
+VARIABEL|Nilai yang dapat berubah
+KOEFISIEN|Angka pengali variabel
+FAKTORIAL|Perkalian bilangan berurutan ke bawah
+PERMUTASI|Susunan berurut yang memperhatikan urutan
+KOMBINASI|Pemilihan tanpa memperhatikan urutan
+PROBABILITAS|Ukuran kemungkinan kejadian
+HISTOGRAM|Diagram batang untuk data frekuensi
+MEDIAN|Nilai tengah dari data terurut
+MODUS|Nilai yang paling sering muncul
+MEAN|Nilai rata-rata data
+ASIMTOT|Garis yang didekati kurva tak terhingga
+KUADRAT|Hasil pangkat dua
+PANGKAT|Perkalian bilangan dengan dirinya
+PECAHAN|Bilangan pembagian dua bagian
+DESIMAL|Bilangan dengan koma
+BILANGAN|Lambang untuk menyatakan jumlah
+KORNEA|Selaput bening di depan mata
+RETINA|Selaput penerima cahaya di mata
+PUPIL|Celah hitam tempat cahaya masuk mata
+IRIS|Selaput berwarna pada mata
+KOKLEA|Rumah siput di telinga dalam
+GENDANG|Selaput getar di telinga
+TRAKEA|Batang tenggorokan saluran napas
+BRONKUS|Cabang batang tenggorokan
+ALVEOLUS|Kantong udara di paru-paru
+DIAFRAGMA|Otot pernapasan di bawah paru
+ESOFAGUS|Kerongkongan penyalur makanan
+DUODENUM|Usus dua belas jari
+PANKREAS|Kelenjar penghasil insulin
+EMPEDU|Cairan hati pencerna lemak
+NEFRON|Unit penyaring pada ginjal
+NEURON|Sel penghantar impuls pada sistem saraf
+SINAPSIS|Celah sambungan antarneuron
+SEREBRUM|Otak besar pusat berpikir
+SEREBELUM|Otak kecil pengatur keseimbangan
+MEDULA|Sumsum penghubung otak dan tulang belakang
+PLASENTA|Ari-ari penghubung ibu dan janin
+EMBRIO|Bakal janin tahap awal
+ZIGOT|Sel hasil pembuahan
+GAMET|Sel kelamin jantan atau betina
+MEIOSIS|Pembelahan sel kelamin
+MITOSIS|Pembelahan sel tubuh
+KLOROPLAS|Organel tempat fotosintesis
+STOMATA|Mulut daun tempat pertukaran gas
+XILEM|Pembuluh pengangkut air pada tumbuhan
+FLOEM|Pembuluh pengangkut makanan pada tumbuhan
+BORON|Unsur kimia berlambang B
+NEON|Unsur kimia berlambang Ne
+ARGON|Unsur kimia berlambang Ar
+KRIPTON|Unsur kimia berlambang Kr
+XENON|Unsur kimia berlambang Xe
+NIKEL|Unsur kimia berlambang Ni
+KOBALT|Unsur kimia berlambang Co
+MANGAN|Unsur kimia berlambang Mn
+KROM|Unsur kimia berlambang Cr
+TIMAH|Unsur kimia berlambang Sn
+IODIN|Unsur kimia berlambang I
+BROMIN|Unsur kimia berlambang Br
+BARIUM|Unsur kimia berlambang Ba
+PLATINA|Unsur kimia berlambang Pt
+WOLFRAM|Unsur kimia berlambang W
+TITANIUM|Unsur kimia berlambang Ti
+EKSOTERM|Reaksi yang melepas kalor
+ENDOTERM|Reaksi yang menyerap kalor
+EKSOTERMIK|Bersifat melepas panas
+VALENSI|Daya ikat atom suatu unsur
+ORBITAL|Daerah kebolehjadian elektron
+IONISASI|Pembentukan ion dari atom
+KATION|Ion bermuatan positif
+ANION|Ion bermuatan negatif
+MOLARITAS|Kepekatan larutan per liter
+TITRASI|Penentuan kadar zat dengan larutan baku
+INDIKATOR|Zat penanda perubahan pH
+KOLOID|Campuran zat berukuran sedang
+EMULSI|Campuran dua cairan tak menyatu
+KATALITIK|Bersifat mempercepat reaksi kimia
+ISOMER|Senyawa sama rumus beda struktur
+HIDROKARBON|Senyawa karbon dan hidrogen
+ALKOHOL|Senyawa organik bergugus hidroksil
+ALDEHIDA|Senyawa organik bergugus karbonil ujung
+ESTER|Senyawa beraroma buah
+KARBOHIDRAT|Zat gizi sumber tenaga utama
+INSOMNIA|Penyakit gagal tidur di malam hari
+AMNESIA|Kondisi kehilangan ingatan
+FOBIA|Rasa takut berlebihan yang tak masuk akal
+VERTIGO|Sensasi dunia berputar dan oleng
+MIGRAIN|Sakit kepala berdenyut hebat sebelah
+ALERGI|Reaksi tubuh berlebihan terhadap zat tertentu
+HALUSINASI|Melihat atau mendengar yang tak nyata
+ENDORFIN|Hormon bahagia pereda rasa sakit
+DOPAMIN|Zat otak pemicu rasa senang dan semangat
+MELATONIN|Hormon yang mengundang rasa kantuk
+SEROTONIN|Hormon pengatur suasana hati
+PLASEBO|Obat kosong yang menyembuhkan karena sugesti
+REFLEKS|Gerak tubuh spontan tanpa disadari
+ORNITOLOGI|Ilmu yang mempelajari burung
+ENTOMOLOGI|Ilmu yang mempelajari serangga
+IKTIOLOGI|Ilmu yang mempelajari ikan
+MIKOLOGI|Ilmu yang mempelajari jamur
+BOTANI|Ilmu yang mempelajari tumbuhan
+ZOOLOGI|Ilmu yang mempelajari hewan
+VIROLOGI|Ilmu yang mempelajari virus
+ANATOMI|Ilmu tentang susunan tubuh makhluk hidup
+SEISMOLOGI|Ilmu tentang gempa bumi
+GEOLOGI|Ilmu tentang lapisan dan batuan bumi
+MINERALOGI|Ilmu tentang mineral
+KLIMATOLOGI|Ilmu tentang iklim
+HIDROLOGI|Ilmu tentang air di bumi
+EMBRIOLOGI|Ilmu tentang perkembangan embrio
+MIKROBIOLOGI|Ilmu tentang mikroorganisme
+BAKTERIOLOGI|Ilmu tentang bakteri
+BIOMA|Wilayah ekosistem besar seperti gurun atau tundra
+HABITAT|Tempat tinggal alami makhluk hidup
+POPULASI|Kumpulan individu sejenis di satu wilayah
+KOMUNITAS|Kumpulan berbagai populasi di satu tempat
+PREDATOR|Hewan pemangsa
+MANGSA|Hewan yang diburu predator
+PARASIT|Makhluk yang hidup merugikan inangnya
+INANG|Tempat parasit menumpang hidup
+RANTAI|Urutan makan-dimakan dalam ekosistem
+PIRAMIDA|Gambaran tingkatan energi ekosistem
+NICHE|Peran suatu spesies dalam ekosistem
+ADAPTASI|Penyesuaian diri makhluk pada lingkungan
+SELEKSI|Penyaringan alam atas yang paling sesuai
+MUTASI|Perubahan susunan materi genetik
+REGENERASI|Kemampuan menumbuhkan bagian tubuh yang hilang
+DORMANSI|Masa istirahat biji atau organisme
+KLONING|Penggandaan makhluk secara identik
+TRANSPLANTASI|Pencangkokan organ tubuh
+TRANSFUSI|Pemindahan darah ke tubuh lain
+DIAGNOSIS|Penentuan jenis penyakit
+PROGNOSIS|Perkiraan perjalanan penyakit
+PATOLOGI|Ilmu tentang penyakit dan penyebabnya
+FISIOLOGI|Ilmu tentang fungsi organ tubuh
+OPTIKA|Cabang fisika tentang cahaya
+AKUSTIKA|Cabang fisika tentang bunyi
+MEKANIKA|Cabang fisika tentang gerak dan gaya
+KINEMATIKA|Ilmu gerak tanpa memperhatikan penyebabnya
+DINAMIKA|Ilmu gerak dengan memperhatikan gaya
+ELEKTRONIKA|Ilmu tentang aliran elektron dalam rangkaian
+MAGNETISME|Gejala tarik-menarik akibat medan magnet
+GRAVIMETRI|Pengukuran berdasarkan gaya gravitasi
+BIOKIMIA|Ilmu tentang reaksi kimia makhluk hidup
+GEOKIMIA|Ilmu kimia unsur-unsur di bumi
+ASTROKIMIA|Ilmu kimia benda-benda antariksa
+PALEOBOTANI|Ilmu tentang tumbuhan purba
+DENDROLOGI|Ilmu yang mempelajari pohon
+NEFROLOGI|Ilmu tentang ginjal
+DERMATOLOGI|Ilmu tentang kulit
+OFTALMOLOGI|Ilmu tentang mata
+PSIKIATRI|Ilmu kedokteran tentang gangguan jiwa
+ORTOPEDI|Ilmu kedokteran tentang tulang
+GERIATRI|Ilmu kedokteran tentang lanjut usia
+PEDIATRI|Ilmu kedokteran tentang anak
